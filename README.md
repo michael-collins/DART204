@@ -44,3 +44,11 @@ The ball moves from left to right in one second over 24 frames. This defines the
 
 Not incredibly exciting is it? That’s because our **spacing** is evenly distributed over every frame. Let’s try keeping the same timing, but changing the spacing of our frames:
 
+![](/assets/03_timing02.png)
+
+And when we see this in motion, this is what happens:
+
+![](/assets/04_05_timing02_anim.gif)
+
+That’s a big improvement! Just by adjusting how our frames are spaced, while keeping the exact same timing, we get a very different movement. This fluid motion doesn’t happen by chance, because this example also follows another very important animation principle called **ease in and ease out**, which we’ll see in more detail in the next section.
+
