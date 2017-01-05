@@ -25,8 +25,3 @@ And when we see this in motion, this is what happens:
 ![](/assets/04_05_timing02_anim.gif)
 
 That’s a big improvement! Just by adjusting how our frames are spaced, while keeping the exact same timing, we get a very different movement. This fluid motion doesn’t happen by chance, because this example also follows another very important animation principle called **ease in and ease out**, which we’ll see in more detail in the next section.
-
-**2. Ease in and Ease out**
-
-On the last section we saw that by adjusting the spacing of an animation we can create different types of movement, making the animation more interesting and realistic. A very simple way of adding interest to your animation is called **ease in and ease out**. This animation principle is based on the idea that everything that moves, be a character or an object, will have acceleration and deceleration. A moving object cannot come to a full stop instantly or go from completely still to really fast in a second. Here is the example we saw on the last section:
-
