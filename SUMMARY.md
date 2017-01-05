@@ -8,4 +8,5 @@
     * [4. Squash and Stretch](4.md)
     * [5. Exaggeration](5.md)
     * [6. Arcs](6.md)
+* [Lesson 2 - Animation Principles 2](lesson-2---animation-principles-2.md)
 
