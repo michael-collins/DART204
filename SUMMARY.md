@@ -7,4 +7,5 @@
     * [3. Straight Ahead and Pose to Pose](3.md)
     * [4. Squash and Stretch](4.md)
     * [5. Exaggeration](5.md)
+    * [6. Arcs](6.md)
 
