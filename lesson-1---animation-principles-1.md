@@ -4,17 +4,17 @@ In this lesson we will explore some of the basic animation principles, first dev
 
 For this lesson we will look into 6 of the 12 animation principles:
 
-**1. Timing and Spacing**
+1. Timing and Spacing
 
-**2. Ease in and Ease out**
+2. Ease in and Ease out
 
-**3. Straight Ahead and Pose to Pose**
+3. Straight Ahead and Pose to Pose
 
-**4. Squash and Stretch**
+4. Squash and Stretch
 
-**5. Exaggeration**
+5. Exaggeration
 
-**6. Arcs**
+6. Arcs
 
 
 
