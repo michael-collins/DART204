@@ -1,4 +1,4 @@
-**1. Timing and Spacing**
+#### 1. Timing and Spacing
 
 Timing and spacing are the base of every animated work. As animators, time is our main resource and constraint, and in animation we convey motion by placing \(or spacing\) images in time. By combining timing and spacing we create the illusion of movement.
 
