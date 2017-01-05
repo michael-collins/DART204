@@ -1,6 +1,6 @@
 # Summary
 
-* [Overview](Overview.md)
+* [Overview](README.md)
 * [Lesson 1 - Animation Principles 1](lesson1_animation_principles-1.md)
     * [1. Timing and Spacing](1_timing_and_spacing.md)
     * [2. Ease in and Ease out](2_easein_and_easeout.md)
