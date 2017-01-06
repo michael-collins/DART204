@@ -9,3 +9,10 @@
     * [5. Exaggeration](5_exaggeration.md)
     * [6. Arcs](6_arcs.md)
 * [Lesson 2 - Animation Principles 2](lesson2_animation_principles-2.md)
+    * [7. Anticipation](7anticipation.md)
+    * [8. Follow Through and Overlapping Action](8followthroughandoverlappingaction.md)
+    * [9. Staging](9staging.md)
+    * [10. Secondary Action](10secondaryaction.md)
+    * [11. Solid Drawing](11soliddrawing.md)
+    * [12. Appeal](12appeal.md)
+
