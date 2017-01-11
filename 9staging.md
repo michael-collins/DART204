@@ -26,4 +26,4 @@ Now we add a camera movement and a few effects to emphasize the heat of the sun,
   <iframe src="//www.youtube.com/embed/GaaV0RITyv8" allowfullscreen></iframe>
 </div>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/GaaV0RITyv8" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/GaaV0RITyv8" frameborder="0" allowfullscreen></iframe>
