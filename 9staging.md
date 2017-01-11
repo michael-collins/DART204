@@ -22,4 +22,4 @@ We can add more elements to make this look more like a desert:
 
 Now we add a camera movement and a few effects to emphasize the heat of the sun, and this is what our scene looks like:
 
-{% video %} https://www.youtube.com/watch?v=GaaV0RITyv8 {% endvideo %}
+{% video %} http://www.youtube.com/watch?v=GaaV0RITyv8 {% endvideo %}

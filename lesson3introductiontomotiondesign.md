@@ -10,10 +10,10 @@ A simple way to differentiate the two is by thinking about them in relation to c
 
 **Take the opening credits for TEDx Ningbo for example:**
 
-{% video %}http://vimeo.com/190046366{% endvideo %}
+{% video %} http://vimeo.com/190046366 {% endvideo %}
 
 **Or the Motion Awards Call for Entries of 2016:**
 
-{% video %}http://vimeo.com/194585455{% endvideo %}
+{% video %} http://vimeo.com/194585455 {% endvideo %}
 
 Notice how the shapes **flow** from one to the next seamlessly, and follow the timing of the sound effects and music. These are very good examples of how good graphic design can be elevated by motion design to deliver a clear and engaging message.
