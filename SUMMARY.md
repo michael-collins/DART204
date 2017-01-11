@@ -17,4 +17,7 @@
     * [12. Appeal](12appeal.md)
 * [Unit 2](unit2.md)
     * [Lesson 3 - Introduction to Motion Design](lesson3introductiontomotiondesign.md)
+        * [Motion Design Steps](motiondesignsteps.md)
+        * [Animation in After Effects](animationinaftereffects.md)
+    * [Lesson 4 - Graph Editor, Audio and Timing](lesson4grapheditoraudioandtiming.md)
 
