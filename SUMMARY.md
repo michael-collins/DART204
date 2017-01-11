@@ -1,6 +1,6 @@
 # Summary
 
-* [Overview](README.md)
+* [Unit 1](README.md)
 * [Lesson 1 - Animation Principles 1](lesson1_animation_principles-1.md)
     * [1. Timing and Spacing](1_timing_and_spacing.md)
     * [2. Ease in and Ease out](2_easein_and_easeout.md)
@@ -15,4 +15,5 @@
     * [10. Secondary Action](10secondaryaction.md)
     * [11. Solid Drawing](11soliddrawing.md)
     * [12. Appeal](12appeal.md)
+* [Unit 2](unit2.md)
 
