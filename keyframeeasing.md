@@ -23,6 +23,6 @@ Here is a quick overview of the graph editor in After Effects:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SEZh3dbLrm0" frameborder="0" allowfullscreen></iframe>
 
-{% video %} http://www.youtube.com/watch?v=SEZh3dbLrm0 {% endvideo %}
+{% youtube %}http://www.youtube.com/watch?v=SEZh3dbLrm0{% endyoutube %}
 
 Now that you know how to ease in and out your keyframes and use the graph editor, you’re ready to customize your animations even further. Other animation principles like squash and stretch, follow through and overlapping action can also be applied to motion design, and we’ll take a closer look at these principles at the end of this lesson.

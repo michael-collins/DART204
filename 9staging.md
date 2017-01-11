@@ -22,8 +22,4 @@ We can add more elements to make this look more like a desert:
 
 Now we add a camera movement and a few effects to emphasize the heat of the sun, and this is what our scene looks like:
 
-<div class="intrinsic-container">
-  <iframe src="//www.youtube.com/embed/GaaV0RITyv8" allowfullscreen></iframe>
-</div>
-
-<iframe width="720" height="405" src="https://www.youtube.com/embed/GaaV0RITyv8" frameborder="0" allowfullscreen></iframe>
+{% youtube %}https://www.youtube.com/embed/GaaV0RITyv8{% endyoutube %}
