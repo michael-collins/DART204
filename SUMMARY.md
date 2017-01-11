@@ -20,5 +20,5 @@
         * [Motion Design Steps](motiondesignsteps.md)
         * [Animation in After Effects](animationinaftereffects.md)
     * [Lesson 4 - Graph Editor, Audio and Timing](lesson4grapheditoraudioandtiming.md)
-        * [keyframe\_easing](keyframeeasing.md)
+        * [Keyframe Easing](keyframeeasing.md)
 
