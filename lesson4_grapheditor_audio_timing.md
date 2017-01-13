@@ -4,7 +4,7 @@ In this lessons we will go a little bit more in depth into the animation propert
 
 Let’s start by looking at the animation we have created in the last lesson:
 
-![](/assets/burger_logo01.gif)
+![](/assets/unit2/burger_logo01.gif)
 
 This animation has almost all of the elements of motion design, but it is far from complete. The movement of each element is very linear and unappealing, and the animation lacks personality and weight.
 

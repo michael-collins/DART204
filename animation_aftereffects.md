@@ -2,11 +2,11 @@
 
 We will now look into the basics of animation inside After Effects.
 
-Every animatable element in After Effects has a few base properties that will define its animation. The most important properties are **position, scale, rotation and opacity**. 
+Every animatable element in After Effects has a few base properties that will define its animation. The most important properties are **position, scale, rotation and opacity**.
 
 Here is a quick example of these properties in After Effects:
 
-![](/assets/anim_properties.gif)
+![](/assets/unit2/anim_properties.gif)
 
 + **Position** defines where the element is on screen over time.
 + **Scale** defines the size of the element over time.

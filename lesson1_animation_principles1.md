@@ -15,6 +15,3 @@ For this lesson we will look into 6 of the 12 animation principles:
 5. Exaggeration
 
 6. Arcs
-
-
-

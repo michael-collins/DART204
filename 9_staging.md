@@ -10,15 +10,15 @@ An easy way to plan your staging is to think about how you can direct the viewer
 
 As an example, we can animate a simple character appear to be tired:
 
-![>img](/assets/05_staging01.gif)
+![>img](/assets/unit1/05_staging01.gif)
 
 Since this is a very simple character, staging can help make the idea that he is tired more clear. He may be walking through a deserted place:
 
-![>img](/assets/06_staging02.gif)
+![>img](/assets/unit1/06_staging02.gif)
 
 We can add more elements to make this look more like a desert:
 
-![>img](/assets/07_staging03.gif)
+![>img](/assets/unit1/07_staging03.gif)
 
 Now we add a camera movement and a few effects to emphasize the heat of the sun, and this is what our scene looks like:
 
