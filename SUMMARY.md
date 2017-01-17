@@ -24,4 +24,5 @@
         * [Keyframe Easing and Graph Editor](keyframe_easing.md)
         * [Audio and Timing](audiotiming.md)
 * [Unit 3](unit3.md)
+* [Unit 4](unit4.md)
 
