@@ -22,5 +22,5 @@
         * [Animation in After Effects](animation_aftereffects.md)
     * [Lesson 4 - Graph Editor, Audio and Timing](lesson4_grapheditor_audio_timing.md)
         * [Keyframe Easing and Graph Editor](keyframe_easing.md)
-        * [audio\_timing](audiotiming.md)
+        * [Audio and Timing](audiotiming.md)
 
