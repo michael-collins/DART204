@@ -8,7 +8,7 @@ If you don’t have an audio track to work with, it is a little harder to create
 
 When working with audio in After Effects it is a good idea to visualize the **waveform** of that audio so that you have a visual representation of your audio file, making the syncing process a little bit easier. To do that, expand your audio layer, then the Audio attribute, and finally the Waveform attribute. This is what you should see in your timeline:
 
-![](/assets/waveform.jpg)
+![](/assets/unit2/waveform.jpg)
 
 You can have multiple audio layers for each animation, and you can control the volume of each layer independently by using the **Audio Levels** attribute.
 
