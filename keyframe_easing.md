@@ -1,4 +1,4 @@
-#### Keyframe easing
+#### Keyframe Easing and Graph Editor
 
 This animation principle is the easiest to apply in After Effects, since it requires only a few clicks to activate, and not a lot of work to customize and tweak.
 In After Effects, when you create a keyframe, that keyframe is automatically set as a **linear keyframe**, and it doesn’t contain any kind of easing.
