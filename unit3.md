@@ -18,6 +18,8 @@ Rigging is the process of parenting or linking parts of the character to create 
 
 To parent one object to another in After Effects, all you need to do is click the pick whip icon and drag from the **child** layer, to the **parent** layer. The dropdown next to the pick whip will then show the name of the parent layer:
 
+![](/assets/unit3/parent_layers.gif)
+
 
 
 Lesson 6: Rigging, Forward and Inverse Kinematics
