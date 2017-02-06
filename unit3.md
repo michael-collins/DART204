@@ -10,7 +10,7 @@
 Simple character design and animation, object parenting, forward kinematics, inverse kinematics, puppet tool, Duik
 
 
-Lesson 5: Rigging and Character Design
+Lesson 5: Character Design and Rigging
 
 When we create a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
 			
@@ -22,6 +22,6 @@ To parent one object to another in After Effects, all you need to do is click th
 
 Another very important thing to keep in mind when parenting layers and rigging a character is the **anchor point** of your layers. The anchor point is what defines your layer's center of rotation. As an example, the center of rotation of an arm is the shoulder, while the center of rotation of the forearm is the elbow. For this reason it is very important to place the anchor points of your layers properly **before you start rigging**.
 
-Lesson 6: Rigging, Forward and Inverse Kinematics
+Lesson 6: Forward Kinematics, Inverse Kinematics and Walk Cycle
 
 
