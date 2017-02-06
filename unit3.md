@@ -12,7 +12,9 @@ Simple character design and animation, object parenting, forward kinematics, inv
 
 Lesson 5: Character Design and Rigging
 
-When we create a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
+When we design a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. We then break up this character in pieces and prepare them to be animated. This will help us define what kind of **rigging** we will use for this character.
+
+One of the first steps we need to perform after we create the character and break it up in pieces is to position the anchor point of each pies properly.
 			
 Rigging is the process of parenting or linking parts of a character to create a hierarchy. For example, we can parent the hand to the forearm, so when we move the forearm, the hand will follow. If we we do that again between the forearm and the arm, we will create a hierarchy. This process makes animating a character much more efficient and intuitive.
 
