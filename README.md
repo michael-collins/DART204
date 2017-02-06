@@ -1,3 +1,1 @@
-# ART 204
-
-## 2D Animation Fundamentals
+## 2D Animation Fundamentals (work in progress)
