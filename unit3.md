@@ -14,7 +14,7 @@ Lesson 5: Rigging and Character Design
 
 When we create a character to aniimate in After Effects, the first thing we need to do is think about how this character is going to move, and what actions is it going to perform. These actions will define what kind of **rigging** we will develop for this character. 
 			
-Rigging is the process of parenting or linking parts of the character to create a hierarchy. For example, we can parent the hand to the forearm, so when we move the forearm, the hand will follow. If we repeat that process between the forearm and the arm, we will create a hierarchy.
+Rigging is the process of parenting or linking parts of a character to create a hierarchy. For example, we can parent the hand to the forearm, so when we move the forearm, the hand will follow. If we repeat that between the forearm and the arm, we will create a hierarchy. This process makes animating a character much more efficient and intuitive.
 
 To parent one object to another in After Effects, all you need to do is click the pick whip icon and drag from the **child** layer, to the **parent** layer. The dropdown next to the pick whip will then show the name of the parent layer:
 
