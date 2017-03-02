@@ -25,5 +25,6 @@
     * [Audio and Timing](audiotiming.md)
 * [Unit 3](unit3.md)
   * [Lesson 5 - Character Design and Rigging](unit3/lesson-5-character-design-and-rigging.md)
+  * [Lesson 6 - Forward Kinematics, Inverse Kinematics and Walk Cycle](unit3/lesson-6-forward-kinematics-inverse-kinematics-and-walk-cycle.md)
 * [Unit 4](unit4.md)
 

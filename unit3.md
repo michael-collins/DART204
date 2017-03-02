@@ -10,6 +10,6 @@
 Simple character design and animation, object parenting, forward kinematics, inverse kinematics, puppet tool, Duik
 
 
-Lesson 6: Forward Kinematics, Inverse Kinematics and Walk Cycle
+
 
 
