@@ -23,6 +23,7 @@
   * [Lesson 4 - Graph Editor, Audio and Timing](lesson4_grapheditor_audio_timing.md)
     * [Keyframe Easing and Graph Editor](keyframe_easing.md)
     * [Audio and Timing](audiotiming.md)
+    * [Exercise 4](exercise-4.md)
 * [Unit 3](unit3.md)
   * [Lesson 5 - Character Design and Rigging](unit3/lesson-5-character-design-and-rigging.md)
   * [Lesson 6 - Forward Kinematics, Inverse Kinematics and Walk Cycle](unit3/lesson-6-forward-kinematics-inverse-kinematics-and-walk-cycle.md)
