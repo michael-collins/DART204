@@ -18,7 +18,7 @@ The anchor point is what defines your layer's center of rotation. As an example,
 
 To move the anchor point of a layer, select the layer or object, click the **Pan behind** tool, then click the anchor point and move it to the desired position.
 
->anchor point move example gif
+![](/assets/unit3/anchor_point.gif)
 
 With the anchor points properly placed, we can start **parenting** the layers to each other.
 
