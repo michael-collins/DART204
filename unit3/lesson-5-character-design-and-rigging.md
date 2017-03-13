@@ -10,7 +10,7 @@ Let's start with a simple character design:
 
 >character image or quick overview video
 
-This character was created in Adobe Illustrator, and if you check the AI file, each part of the character's body in a separate layer. Just as we did previously for the logo animation, we need to have each part that will be animated in its own layer, so the importing process in After Effects will be much more streamlined.
+This character was created in Adobe Illustrator, and its source file is available for download from the course page. When you open the .AI file, you'll notice that each part of the character's body is in a separate layer. Just as we did previously for the logo animation, we need to have each part that will be animated in its own layer, so the importing process in After Effects will be much more streamlined.
 
 One of the first steps we need to perform after we have the character elements in separate layers and imported into After Effects is to position the **anchor point** of each piece properly.
 
