@@ -9,7 +9,7 @@
     * [4. Squash and Stretch](4_squash_and_stretch.md)
     * [5. Exaggeration](5_exaggeration.md)
     * [6. Arcs](6_arcs.md)
-    * Exercise 1
+    * [Exercise 1](exercise-1.md)
   * [Lesson 2 - Animation Principles 2](lesson2_animation_principles2.md)
     * [7. Anticipation](7_anticipation.md)
     * [8. Follow Through and Overlapping Action](8_followthrough_overlapping_action.md)
