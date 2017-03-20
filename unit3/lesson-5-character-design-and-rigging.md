@@ -10,8 +10,6 @@ With the second method we will create flexible limbs for our character with the 
 
 In this lesson we will study two different rigging styles, each with its advantages and disadvantages.
 
-
-
 Let's start with a simple character design:
 
 >character image
