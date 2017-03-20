@@ -2,7 +2,7 @@
 
 In this lessons we will go a little bit more in depth into the animation properties in After Effects, as well as how we can use animation principles and the graph editor to tweak our animations and the importance of audio in motion design.
 
-Let’s start by looking at the animation we have created in the last lesson:
+Let’s start by looking at the example animation from our last lesson:
 
 ![](/assets/unit2/burger_logo01.gif)
 

@@ -23,7 +23,7 @@
   * [Lesson 3 - Introduction to Motion Design](lesson3_introduction_motion_design.md)
     * [Motion Design Steps](motion_design_steps.md)
     * [Animation in After Effects](animation_aftereffects.md)
-    * Exercise 3
+    * [Exercise 3](exercise-3.md)
   * [Lesson 4 - Graph Editor, Audio and Timing](lesson4_grapheditor_audio_timing.md)
     * [Keyframe Easing and Graph Editor](keyframe_easing.md)
     * [Audio and Timing](audiotiming.md)
