@@ -18,7 +18,7 @@
     * [11. Solid Drawing](11_solid_drawing.md)
     * [12. Appeal](12_appeal.md)
     * [Exercise 2](exercise-2.md)
-  * Project 1
+  * [Project 1](project-1.md)
 * [Unit 2](unit2.md)
   * [Lesson 3 - Introduction to Motion Design](lesson3_introduction_motion_design.md)
     * [Motion Design Steps](motion_design_steps.md)
