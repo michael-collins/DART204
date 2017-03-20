@@ -17,7 +17,7 @@
     * [10. Secondary Action](10_secondary_action.md)
     * [11. Solid Drawing](11_solid_drawing.md)
     * [12. Appeal](12_appeal.md)
-    * Exercise 2
+    * [Exercise 2](exercise-2.md)
   * Project 1
 * [Unit 2](unit2.md)
   * [Lesson 3 - Introduction to Motion Design](lesson3_introduction_motion_design.md)
