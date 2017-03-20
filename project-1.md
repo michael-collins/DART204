@@ -11,7 +11,7 @@ The focus of this project is the creation of an animation that successfully conv
 
 You should interpret the theme in any way you like, and from your interpretation, create an animation that successfully conveys your idea. You can draw inspiration from anything (movies, comics, music, other animations, your personal experiences, etc.). Keep in mind that simple ideas are easier to convey.
 
-After you define your concept, you should submit a document containing your **concept description**.
+After you define your concept, you should submit a document containing your **concept description** (1-2 paragraphs).
 
 For your final submission, you should upload a **video of your animation** together with a **project reflection text** (1 - 2 paragraphs) about your animation development process, the problems you encountered and how you solved them, and what you would have done differently.
 
