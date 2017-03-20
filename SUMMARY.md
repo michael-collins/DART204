@@ -28,7 +28,7 @@
     * [Keyframe Easing and Graph Editor](keyframe_easing.md)
     * [Audio and Timing](audiotiming.md)
     * [Exercise 4](exercise-4.md)
-  * Project 2
+  * [Project 2](project-2.md)
 * [Unit 3](unit3.md)
   * [Lesson 5 - Character Design and Rigging](unit3/lesson-5-character-design-and-rigging.md)
     * Exercise 5
