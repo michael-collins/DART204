@@ -4,7 +4,7 @@
 
 ### **Overview**
 
-**Character animation** is arguably one of the most complex parts of animation, and an entire course could be dedicated exclusively to this discipline. In this Unit we will see a few techniques to start creating our own animated characters, as well as understand concepts such as forward and inverse kinematics and character rigging.
+...
 
 Topics:
 Effects, color correction, noise, vignette, depth of field, motion blur, 3D layers, camera animation

@@ -9,6 +9,7 @@
     * [4. Squash and Stretch](4_squash_and_stretch.md)
     * [5. Exaggeration](5_exaggeration.md)
     * [6. Arcs](6_arcs.md)
+    * Exercise 1
   * [Lesson 2 - Animation Principles 2](lesson2_animation_principles2.md)
     * [7. Anticipation](7_anticipation.md)
     * [8. Follow Through and Overlapping Action](8_followthrough_overlapping_action.md)
@@ -16,16 +17,26 @@
     * [10. Secondary Action](10_secondary_action.md)
     * [11. Solid Drawing](11_solid_drawing.md)
     * [12. Appeal](12_appeal.md)
+    * Exercise 2
+  * Project 1
 * [Unit 2](unit2.md)
   * [Lesson 3 - Introduction to Motion Design](lesson3_introduction_motion_design.md)
     * [Motion Design Steps](motion_design_steps.md)
     * [Animation in After Effects](animation_aftereffects.md)
+    * Exercise 3
   * [Lesson 4 - Graph Editor, Audio and Timing](lesson4_grapheditor_audio_timing.md)
     * [Keyframe Easing and Graph Editor](keyframe_easing.md)
     * [Audio and Timing](audiotiming.md)
     * [Exercise 4](exercise-4.md)
+  * Project 2
 * [Unit 3](unit3.md)
   * [Lesson 5 - Character Design and Rigging](unit3/lesson-5-character-design-and-rigging.md)
+    * Exercise 5
   * [Lesson 6 - Forward Kinematics, Inverse Kinematics and Walk Cycle](unit3/lesson-6-forward-kinematics-inverse-kinematics-and-walk-cycle.md)
+    * Exercise 6
+  * Project 3
 * [Unit 4](unit4.md)
+  * [Lesson 7 - Color correction and Effects](unit4/lesson-7-color-correction-and-effects.md)
+    * Exercise 7
+  * Project 4
 
