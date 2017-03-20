@@ -2,15 +2,23 @@
 
 When we design a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. We then break up this character in elements and prepare them to be animated. This will help us define what kind of **rigging** we will use for this character.
 
-Rigging is the process of parenting or linking parts of a character to create a hierarchy. For example, we can parent the hand to the forearm, so when we move the forearm, the hand will follow. If we we do that again between the forearm and the arm, we will create a hierarchy. This process makes animating a character much more efficient and intuitive.
+Rigging is the process of preparing a character to be animated in the future, and it's like creating a character's bone structure. In this lesson we will study two different rigging styles, each with its advantages and disadvantages.
+
+The first method consists of parenting or linking parts of a character to create a hierarchy. For example, we can parent the hand to the forearm, so when we move the forearm, the hand will follow. If we do that again between the forearm and the arm, we will create a hierarchy. This process makes animating a character much more efficient and intuitive, and we'll call it **"Hierarchy Rigging"**.
+
+With the second method we will create flexible limbs for our character with the use of lines in After Effects. This gives us a lot more possibilities for crazy animations, like flimsy arms and legs that can extend endlessly, but can also be a little harder to control. This method is called **"Rubberhose"**.
 
 In this lesson we will study two different rigging styles, each with its advantages and disadvantages.
+
+
 
 Let's start with a simple character design:
 
 >character image
 
 This character was created in Adobe Illustrator, and its source file is available for download from the course page. When you open the .AI file, you'll notice that each part of the character's body is in a separate layer. Just as we did previously for the logo animation, we need to have each part that will be animated in its own layer, so the importing process in After Effects will be much more streamlined.
+
+#### Rigging Method 1 - Hierarchy
 
 One of the first steps we need to perform after we have the character elements in separate layers and imported into After Effects is to position the **anchor point** of each piece properly.
 
