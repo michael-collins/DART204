@@ -6,4 +6,4 @@ For this exercise, your task is to think about yourself as a product or brand, a
 
 Think about the traits that define you and your brand, and list them in order to create a profile for your animation. Would your animation be energetic or elegant, minimalistic or detailed, slow or fast paced? This profile will help you define what kind of animation you should create.
 
-Make sure you follow the steps listed in this lesson, and try to really highlight the traits you selected for your profile.
+Make sure you follow the steps listed in this lesson, and try to really highlight the traits you selected for your profile with the use of animation.
