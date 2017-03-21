@@ -38,5 +38,5 @@
 * [Unit 4](unit4.md)
   * [Lesson 7 - Color correction and Effects](unit4/lesson-7-color-correction-and-effects.md)
     * [Exercise 7](unit4/lesson-7-color-correction-and-effects/exercise-7.md)
-  * Project 4
+  * [Project 4](unit4/project-4.md)
 
