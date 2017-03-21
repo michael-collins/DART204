@@ -40,7 +40,9 @@ In this type of rigging we can choose between two different methods we can use t
 
 #### Rigging Method 2 - Rubberhose
 
-In this method, the limbs (and sometimes de whole body) of our character are composed of lines created directly in After Effects.
+In this method, the limbs (and sometimes de whole body) of our character are composed of lines created directly in After Effects. It simulates one of the earliest and most popular styles of animation used in the United States, starting with cartoons such as Felix the Cat and Popeye.
+
+In the early days of animation, this method was mostly used to simplify the process of character animation, since it gave much more freedom to the animator to create extreme poses without the constraint of realism. Today this method is still used for its simplicity, but it is mostly a stylistic choice.
 
 
 
