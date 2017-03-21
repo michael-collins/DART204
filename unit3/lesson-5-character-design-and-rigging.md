@@ -40,6 +40,9 @@ In this type of rigging we can choose between two different methods we can use t
 
 #### Rigging Method 2 - Rubberhose
 
+In this method, the limbs (and sometimes de whole body) of our character are composed of lines created directly in After Effects.
+
+
 
 
 
