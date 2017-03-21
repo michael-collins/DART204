@@ -44,6 +44,10 @@ In this method, the limbs (and sometimes de whole body) of our character are com
 
 In the early days of animation, this method was mostly used to simplify the process of character animation, since it gave much more freedom to the animator to create extreme poses without the constraint of realism. Today this method is still used for its simplicity, but it is mostly a stylistic choice.
 
+Here is an example of a modern animation using the Rubberhose style:
+
+>video example
+
 
 
 
