@@ -1,6 +1,6 @@
 ## Project 1 (maybe Project 3)
 
-### Theme:  Journey
+### Theme: Journey
 	
 A journey can be epic, universal, the hero’s journey of redemption and glory. It also can be personal, individual, the journey of our everyday lives, the journey of self-improvement and growth. A journey implies change. The transitions of the environment, the metamorphosis from childhood to adult life, the passing of time, a new skill learned, etc.
 
