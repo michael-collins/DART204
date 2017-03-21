@@ -2,7 +2,7 @@
 
 #### Guidelines
 
-In this lesson you have learned 6 of the 12 basic principles of animation: 
+In this lesson you have learned 6 of the 12 basic principles of animation:
 
 1. Timing and Spacing
 2. Ease in and Ease out
@@ -11,7 +11,7 @@ In this lesson you have learned 6 of the 12 basic principles of animation:
 5. Exaggeration 
 6. Arcs
 
-Now it is time to experience how they work in practice! 
+Now it is time to experience how they work in practice!
 
 In this exercise you will be given an After Effects file that you will use as a base to create your own animation of a bouncing ball.
 
