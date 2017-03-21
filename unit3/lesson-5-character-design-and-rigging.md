@@ -1,6 +1,6 @@
 ### Lesson 5: Character Design and Rigging
 
-When we design a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. We then break up this character in elements and prepare them to be animated. This will help us define what kind of **rigging** we will use for this character.
+When we design a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
 
 Rigging is the process of preparing a character to be animated in the future, and it's like creating a character's bone structure. In this lesson we will study two different rigging styles, each with its advantages and disadvantages.
 
@@ -33,5 +33,7 @@ To parent one object to another in After Effects, all you need to do is click th
 ![](/assets/unit3/parent_layers.gif)
 
 Once that is done, whenever you rotate or move the **parent layer**, the **child layer** will follow.
+
+
 
 
