@@ -1,6 +1,6 @@
 # **ART 204 - Unit 2**
 
-## Motion Graphics
+## Motion Design
 
 ### **Overview**
 
