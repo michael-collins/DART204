@@ -18,7 +18,7 @@ This character was created in Adobe Illustrator, and its source file is availabl
 
 #### Rigging Method 1 - Hierarchy
 
-Hierarchy riggingIn this method we will create a hierarchy to help us control all of the elements of our character.
+In this method we will create a hierarchy to help us control all of the elements of our character.
 
 One of the first steps we need to perform after we have the character elements in separate layers and imported into After Effects is to position the **anchor point** of each piece properly.
 
