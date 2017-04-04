@@ -1,4 +1,4 @@
-### Lesson 3 - Introduction to Motion Design
+### Lesson 4 - Introduction to Motion Design
 
 #### What is motion design?
 

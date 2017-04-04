@@ -1,4 +1,4 @@
-### Lesson 4 - Graph editor, audio and timing
+### Lesson 5 - Graph editor, audio and timing
 
 In this lessons we will go a little bit more in depth into the animation properties in After Effects, as well as how we can use animation principles and the graph editor to tweak our animations and the importance of audio in motion design.
 

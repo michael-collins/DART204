@@ -1,4 +1,4 @@
-### Exercise 3 (Maybe Project 2)
+### Exercise 4 (Maybe Project 2)
 
 In this lesson we learned about the animation properties in After Effects, and how we can use these properties to create motion design elements.
 
