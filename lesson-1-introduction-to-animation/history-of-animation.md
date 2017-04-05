@@ -39,6 +39,10 @@ In 1868 the first flipbook, the kinograph, was developed by John Barnes Linnett.
 A more elaborate version of the Zoetrope, the praxinoscope was invented in 1877 by Charles-Émile Reynaud and consisted of a carousel of sequential still images with a mirror placed in the center. The mirror substituted the slits on the zoetrope and reflected the images of the spinning carousel creating the illusion of motion. In 1889 Reynaud presented an improved version of the praxinoscope, the Théâtre Optique, capable of projecting images to a screen.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f0/Lanature1879_praxinoscope_reynaud.png)
+_Praxinoscope_
+
+![](http://minyos.its.rmit.edu.au/aim/a_notes/a_images/theatre_optique.jpg)
+_First public performance of Reynaud's 'Theatre Optique' in Paris 1892_
 
 
 
