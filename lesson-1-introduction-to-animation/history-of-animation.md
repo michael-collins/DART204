@@ -13,20 +13,33 @@ Images in motion were depicted as early as humans started recording their experi
 The thaumatrope was invented in the 1820s and consists of a disk with an image on each side 
 connected to two pieces of string. Turning the strings between the fingers caused the image to spin, creating the illusion that both images are one.
 
-<img src="https://arsyl2011.files.wordpress.com/2011/12/thaumatrope1.jpg" alt="The Thaumatrope">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Taumatropio_fiori_e_vaso%2C_1825.gif" alt="The Thaumatrope">
+![](https://arsyl2011.files.wordpress.com/2011/12/thaumatrope1.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/9/9f/Taumatropio_fiori_e_vaso%2C_1825.gif)
 
 ####1831 - Phenakistoscope 
 The phenakistoscope, invented in 1831, was a disk containing several still images depicting a sequence in motion. The disk was attached to a handle and contained equally spaced slits through which the user could see the spinning images. The phenakistoscope is often compared to modern gif images, because it shows a sequence of images playing on a loop.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Phenakistoscope_3g07690u.jpg/768px-Phenakistoscope_3g07690u.jpg" alt="The Phenakistoscope">
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Phenakistoscope_3g07690u.jpg/768px-Phenakistoscope_3g07690u.jpg)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Phenakistoscope_3g07690b.gif/480px-Phenakistoscope_3g07690b.gif" alt="The Phenakistoscope">
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Phenakistoscope_3g07690b.gif/480px-Phenakistoscope_3g07690b.gif)
 
 ####1834 - Zoetrope 
 Similar to the phenakistoscope, the zoetrope also presents a sequence of spinning images that create the illusion of motion. Rather than placed on a flat disk, however, in the zoetrope the images are distributed on the wall of a cylinder with equally spaced slits through which the animation can be viewed. Different from the phenakistoscope that can be experienced only by one person at a time, the zoetrope allows for several users to enjoy the experience.
 
-<img src="https://en.wikipedia.org/wiki/File:1867-04_lincoln_patent_US64117-0R.jpg" alt="The Zoetrope">
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/1867-04_lincoln_patent_US64117-0R.jpg/640px-1867-04_lincoln_patent_US64117-0R.jpg)
+![](https://31.media.tumblr.com/91f0202c7e1178e6ee34d7745932e06b/tumblr_mj1lq23bLn1s6qc3go1_500.gif)
+
+####1868 - Flip book
+In 1868 the first flipbook, the kinograph, was developed by John Barnes Linnett. It consisted of a small book with a sequence of images in motion individually drawn on each page. When flipping through the pages, the images appear to be moving.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linnet_kineograph_1886.jpg/357px-Linnet_kineograph_1886.jpg)
+![](https://media.giphy.com/media/HN7iULFBJzkZi/giphy.gif)
+
+####1877 - Praxinoscope
+A more elaborate version of the Zoetrope, the praxinoscope was invented in 1877 by Charles-Émile Reynaud and consisted of a carousel of sequential still images with a mirror placed in the center. The mirror substituted the slits on the zoetrope and reflected the images of the spinning carousel creating the illusion of motion. In 1889 Reynaud presented an improved version of the praxinoscope, the Théâtre Optique, capable of projecting images to a screen.
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f0/Lanature1879_praxinoscope_reynaud.png)
+
 
 
 
