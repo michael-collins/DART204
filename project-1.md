@@ -7,6 +7,7 @@ Rube Goldberg was an American cartoonist and inventor that became famous for his
 One of the earliest examples of his work is the Self-Operating Napkin:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif)
+
 _By Rube Goldberg - Originally published in Collier's, September 26 1931_
 
 Since then, Goldberg's influence can be seen in many different medias, such as music videos, movies, art and animation:
