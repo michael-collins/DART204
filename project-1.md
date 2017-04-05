@@ -11,14 +11,22 @@ _By Rube Goldberg - Originally published in Collier's, September 26 1931_
 
 Since then, Goldberg's influence can be seen in many different medias, such as music videos, movies, art and animation:
 
-Ok Go - This Too Shall Pass
-https://www.youtube.com/watch?v=qybUFnY7Y8w
+{% youtube %}https://www.youtube.com/watch?v=qybUFnY7Y8w{% endyoutube %}
+_Ok Go - This Too Shall Pass_
 
-Charlie Chaplin Eating Machine
-https://www.youtube.com/watch?v=n_1apYo6-Ow
+{% youtube %}https://www.youtube.com/watch?v=n_1apYo6-Ow{% endyoutube %}
+_Charlie Chaplin Eating Machine_
 
-Metropolis ll at LACMA
-https://www.youtube.com/watch?v=pg-a-yB1coE&t=71s
+{% youtube %}https://www.youtube.com/watch?v=pg-a-yB1coE&t=71s{% endyoutube %}
+_Metropolis ll at LACMA_
+
+
+
+
+
+
+
+
 
 
 
