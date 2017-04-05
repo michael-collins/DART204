@@ -14,12 +14,15 @@ The thaumatrope was invented in the 1820s and consists of a disk with an image o
 connected to two pieces of string. Turning the strings between the fingers caused the image to spin, creating the illusion that both images are one.
 
 ![](https://arsyl2011.files.wordpress.com/2011/12/thaumatrope1.jpg)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9f/Taumatropio_fiori_e_vaso%2C_1825.gif)
+_Thaumatrope in motion_
 
 ####1831 - Phenakistoscope 
 The phenakistoscope, invented in 1831, was a disk containing several still images depicting a sequence in motion. The disk was attached to a handle and contained equally spaced slits through which the user could see the spinning images. The phenakistoscope is often compared to modern gif images, because it shows a sequence of images playing on a loop.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Phenakistoscope_3g07690u.jpg/768px-Phenakistoscope_3g07690u.jpg)
+_Phenakistoscope by Eadweard Muybridge_
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Phenakistoscope_3g07690b.gif/480px-Phenakistoscope_3g07690b.gif)
 
@@ -27,12 +30,14 @@ The phenakistoscope, invented in 1831, was a disk containing several still image
 Similar to the phenakistoscope, the zoetrope also presents a sequence of spinning images that create the illusion of motion. Rather than placed on a flat disk, however, in the zoetrope the images are distributed on the wall of a cylinder with equally spaced slits through which the animation can be viewed. Different from the phenakistoscope that can be experienced only by one person at a time, the zoetrope allows for several users to enjoy the experience.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/1867-04_lincoln_patent_US64117-0R.jpg/640px-1867-04_lincoln_patent_US64117-0R.jpg)
+_Zoetrope W.E. Lincoln, 1867_
 ![](https://31.media.tumblr.com/91f0202c7e1178e6ee34d7745932e06b/tumblr_mj1lq23bLn1s6qc3go1_500.gif)
 
 ####1868 - Flip book
 In 1868 the first flipbook, the kinograph, was developed by John Barnes Linnett. It consisted of a small book with a sequence of images in motion individually drawn on each page. When flipping through the pages, the images appear to be moving.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linnet_kineograph_1886.jpg/357px-Linnet_kineograph_1886.jpg)
+_Linnet kineograph 1886_
 ![](https://media.giphy.com/media/HN7iULFBJzkZi/giphy.gif)
 
 ####1877 - Praxinoscope
@@ -43,8 +48,3 @@ _Praxinoscope_
 
 ![](http://minyos.its.rmit.edu.au/aim/a_notes/a_images/theatre_optique.jpg)
 _First public performance of Reynaud's 'Theatre Optique' in Paris 1892_
-
-
-
-
-
