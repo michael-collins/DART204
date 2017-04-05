@@ -4,8 +4,8 @@
 * [Unit 1](unit1.md)
   * [Lesson 1 - Introduction to Animation](lesson-1-introduction-to-animation.md)
     * [History of Animation](lesson-1-introduction-to-animation/history-of-animation.md)
-    * Newtonian Physics
-    * Animation Properties
+    * [Newtonian Physics](lesson-1-introduction-to-animation/newtonian-physics.md)
+    * [Animation Properties](lesson-1-introduction-to-animation/animation-properties.md)
     * [Exercise 1](lesson-1-introduction-to-animation/exercise-1.md)
   * [Lesson 2 - Animation Principles 1](lesson1_animation_principles1.md)
     * [1. Timing and Spacing](1_timing_and_spacing.md)
