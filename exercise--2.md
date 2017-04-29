@@ -19,43 +19,29 @@ To create this animation you need to focus on the principles of **timing, ease i
 
 >Bouncing ball animation in After Effects video tutorial
 
-##Steps to Completion
+####Steps to Completion
 
 Watch relevant tutorials
 
 Create a project folder called ballbounce_yourstudentID
 
-Use Adobe After Effects to create an animation 1 to 3 seconds in length.
+Use Adobe After Effects to create an animation 2 to 4 seconds in length.
 
 Composition settings Preset: HDTV 1080 24
 
 Animate a bouncing ball. It must bounce at least 3 times.
 
-Apply keyframes to position the ball bounces
-
-Modify the trajectory of the balls movement
-
-Use the graph editor to match the velocity of the ball bounce to its trajectory
-
-Use the scale tool to squash and stretch the ball show emphasize movement and speed. Be careful to maintain volume.
-
-Keyframe rotation of the ball to match the direction of the stretch of the ball
-
-Export the 1-3 second animation in H.264 format and save as
-
-After Effects Export tutorial
-Save your After Effects file as ballbounce_yourstudentID.aep
+Export the animation in H.264 format and save as
 
 Post the H.264 video on Vimeo.com (create an account if you don’t have one)
 
-Post the link for the video on the Lore.com discussion page
+Post the link for the video on the course discussion page
 
-Compress(zip) the project folder once you’ve completed the tutorial and rename it ballbounce_yourstudentID.zip
+Compress(zip) the project folder including the source After Effects file, name it ballbounce_yourstudentID.zip and upload the .zip file to the Ball Bounce Dropbox
 
 Failure to ensure that you’ve uploaded all relevant assets will result in your exercise being graded as an incomplete or late submission. Please review that you have included all desired files listed in the Steps to Completion.
 
-Upload the .zip file to the Ball Bounce Dropbox
 
-##Grading
+####Grading
 
 Your grade will be assessed according to the Exercise Grading Criteria

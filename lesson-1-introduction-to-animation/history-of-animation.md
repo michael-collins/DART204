@@ -56,3 +56,5 @@ _Praxinoscope_
 ![](http://minyos.its.rmit.edu.au/aim/a_notes/a_images/theatre_optique.jpg)
 
 _First public performance of Reynaud's 'Theatre Optique' in Paris 1892_
+
+### "tradicional animation"
