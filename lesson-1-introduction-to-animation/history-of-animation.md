@@ -57,4 +57,4 @@ _Praxinoscope_
 
 _First public performance of Reynaud's 'Theatre Optique' in Paris 1892_
 
-### "tradicional animation"
+### "traditional animation"
