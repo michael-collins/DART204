@@ -37,7 +37,7 @@
   * [Lesson 5 - Character Design and Rigging](unit3/lesson-5-character-design-and-rigging.md)
     * [Exercise 5](unit3/lesson-5-character-design-and-rigging/exercise-5.md)
   * [Lesson 6 - Forward Kinematics, Inverse Kinematics and Walk Cycle](unit3/lesson-6-forward-kinematics-inverse-kinematics-and-walk-cycle.md)
-    * Exercise 6
+    * [Exercise 6](unit3/lesson-6-forward-kinematics-inverse-kinematics-and-walk-cycle/exercise-6.md)
   * [Project 3](unit3/project-3.md)
 * [Unit 4](unit4.md)
   * [Lesson 7 - Color correction and Effects](unit4/lesson-7-color-correction-and-effects.md)
