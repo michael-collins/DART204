@@ -57,4 +57,5 @@ _Praxinoscope_
 
 _First public performance of Reynaud's 'Theatre Optique' in Paris 1892_
 
-#### 1900 - 1930: The start of traditional animation
+#### 1900 - 1930: Animation on film
+
