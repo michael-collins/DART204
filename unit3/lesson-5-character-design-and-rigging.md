@@ -1,4 +1,4 @@
-### Lesson 5: Character Design and Rigging
+### Lesson 6: Character Design and Rigging
 
 When we design a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
 
