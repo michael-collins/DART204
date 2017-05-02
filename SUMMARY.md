@@ -40,7 +40,7 @@
     * [Exercise 7](unit3/lesson-7-forward-kinematics-inverse-kinematics-and-walk-cycle/exercise-7.md)
   * [Project 3](unit3/project-3.md)
 * [Unit 4](unit4.md)
-  * [Lesson 7 - Color correction and Effects](unit4/lesson-7-color-correction-and-effects.md)
-    * [Exercise 7](unit4/lesson-7-color-correction-and-effects/exercise-7.md)
+  * [Lesson 8 - Color correction and Effects](unit4/lesson-7-color-correction-and-effects.md)
+    * [Exercise 8](unit4/lesson-7-color-correction-and-effects/exercise-8.md)
   * [Project 4](unit4/project-4.md)
 
