@@ -18,7 +18,7 @@ You will be given an After Effects file that you will use as a base to create yo
 
 Watch relevant tutorials
 
-Create a project folder called ballbounce_yourstudentID
+Create a project folder called __yourstudentID_
 
 Use Adobe After Effects to create an animation 2 to 4 seconds in length.
 
