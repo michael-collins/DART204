@@ -1,4 +1,4 @@
-### Animation Properties
+### Digital Animation Properties
 
 We will now look into the basics of animation properties inside After Effects.
 
