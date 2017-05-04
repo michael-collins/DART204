@@ -46,7 +46,7 @@ In the early days of animation, this method was mostly used to simplify the proc
 
 Here is an example of a modern animation using the Rubberhose style:
 
->video example/animated gif (slimjimstudios)
+![](https://static1.squarespace.com/static/552a5cc4e4b059a56a050501/57c4256b20099e1e8b3e1427/57c42632f7e0ab69ed29be0c/1472472633069/LAGifathon11.gif?format=750w)
 
 
 
