@@ -14,10 +14,11 @@ Inverse Kinematics solves that issue by placing the control of the hierarchy on 
 ![](/assets/unit3/IK.gif)
 
  
-This makes it much quicker to pose a character, especially if you are creating a walk cycle, or moving the characters hips.
+This makes it much quicker to pose a character, especially if you are creating a walk cycle, or moving the characters hips. On the image below, the character on the left is rigged using FK, and the one on the right is using IK. Both are being moved by their respective parent nodes (in this case, the hip node).
 
 ![](/assets/unit3/char_compare.gif)
 
+From this simple comparison we can already have a feeling that the character on the right will be much easier to animate.
 
 The downside of using IK is that it can be difficult to pose your character exactly as you want, since you lose control of the individual joints.
 
