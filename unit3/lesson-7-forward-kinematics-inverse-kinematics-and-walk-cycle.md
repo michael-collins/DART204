@@ -20,3 +20,10 @@ The downside of using IK is that it can be difficult to pose your character exac
 
 ####FK Setup
 
+To setup a character in After Effects using FK is very simple, and we don't need any additional plugins to do it.
+
+> FK character setup video
+
+####IK Setup
+
+To setup a character using IK, we will use a plugin called DUIK. This plugin is free, and it is one of the best animation plugins available for After effects.
