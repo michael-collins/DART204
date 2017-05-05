@@ -70,12 +70,12 @@ Created by the American cartoonist Winsor McCay, Gertie the Dinosaur was the fir
 >img
 
 ####1919 - Felix the Cat
-Felix the Cat, created in 1920 by Otto Messmer from Pat Sullivan Studios, was a silent cartoon that impressed and attracted audiences by the qualities of its character and its extraordinary situations. So much that Felix the Cat was the first animated film to be merchandised (into ceramics, postcards, stuffed toys, and so on). The cartoon Felix the Cat was updated in 1953 and began airing in the United States. The new cartoon featured new characters, and Felix with a slightly changed appearance and a "Magic Bag of Tricks".
+Felix the Cat, created in 1919 by Otto Messmer from Pat Sullivan Studios, was a silent cartoon that impressed and attracted audiences by the qualities of its character and its extraordinary situations. So much that Felix the Cat was the first animated film to be merchandised (into ceramics, postcards, stuffed toys, and so on). The cartoon Felix the Cat was updated in 1953 and began airing in the United States. The new cartoon featured new characters, and Felix with a slightly changed appearance and a "Magic Bag of Tricks".
 
 >img
 
 ####1928 - Steamboat Willie
-Walt Disney’s Steamboat Willie is perhaps the most well known animated film from its time. It was the first animated film to feature synchronized sound and a fully post-produced soundtrack. In the story, a mouse (Mickey Mouse) alternates working with making music. This was the third animated film to feature Mickey Mouse, but the first to be distributed. Steamboat Willie was acclaimed by its technical advancements and it was the first breakthrough for Walt Disney and his company, which is reference in animation to this date.
+Walt Disney’s Steamboat Willie is perhaps the most well known animated film from its time. It was the first animated film to feature synchronized sound and a fully post-produced soundtrack. In the story, a mouse (Mickey Mouse) alternates working with making music. This was the third animated film to feature Mickey Mouse, but the first to be distributed. Steamboat Willie was acclaimed by its technical advancements and it was the first breakthrough for Walt Disney and his company, which is a reference in animation to this date.
 
 >img
 
