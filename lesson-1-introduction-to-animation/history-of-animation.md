@@ -76,19 +76,20 @@ Frame from Gertie the Dinosaur
 ####1919 - Felix the Cat
 Felix the Cat, created in 1919 by Otto Messmer from Pat Sullivan Studios, was a silent cartoon that impressed and attracted audiences by the qualities of its character and its extraordinary situations. So much that Felix the Cat was the first animated film to be merchandised (into ceramics, postcards, stuffed toys, and so on). The cartoon Felix the Cat was updated in 1953 and began airing in the United States. The new cartoon featured new characters, and Felix with a slightly changed appearance and a "Magic Bag of Tricks".
 
-
+![](/assets/unit1/felix.jpg)
 
 On the left, Felix in Felix in Hollywood (1923), on the right, Felix current design.
 
 ####1928 - Steamboat Willie
 Walt Disney’s Steamboat Willie is perhaps the most well known animated film from its time. It was the first animated film to feature synchronized sound and a fully post-produced soundtrack. In the story, a mouse (Mickey Mouse) alternates working with making music. This was the third animated film to feature Mickey Mouse, but the first to be distributed. Steamboat Willie was acclaimed by its technical advancements and it was the first breakthrough for Walt Disney and his company, which is a reference in animation to this date.
 
->img
+![](https://upload.wikimedia.org/wikipedia/en/4/4e/Steamboat-willie.jpg)
+
+Frame from Steamboat Willie
 
 ####1937 - Snow White and the Seven Dwarfs
 Snow White and the Seven Dwarfs, produced by Walt Disney Productions in 1937, was the first cel animated feature film (over 40 minutes long), completely hand-drawn. Based on a fairy tale by the Brothers Grimm, Snow White tells the story of a princess who escapes the tyranny of her evil queen and finds refuge in the home of seven dwarfs. Snow White and the Seven Dwarfs achieved immense success and became a cultural landmark that persists to this date.
 
->img
+![](http://vignette4.wikia.nocookie.net/disney/images/2/27/Snow-white-disneyscreencaps.com-4211.jpg)
 
-
-
+Frame from Snow White and the Seven Dwarfs
