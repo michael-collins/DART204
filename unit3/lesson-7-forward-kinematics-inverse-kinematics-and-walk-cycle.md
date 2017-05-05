@@ -26,4 +26,9 @@ To setup a character in After Effects using FK is very simple, and we don't need
 
 ####IK Setup
 
-To setup a character using IK, we will use a plugin called DUIK. This plugin is free, and it is one of the best animation plugins available for After effects.
+To setup a character using IK, we will use a plugin called DUIK. This plugin is free, and it is one of the best animation plugins available for After effects. You can download the plugin from this link: https://rainboxprod.coop/en/tools/duik/duik-download/
+
+Here is a step by step of the setup process:
+
+> IK character setup video
+
