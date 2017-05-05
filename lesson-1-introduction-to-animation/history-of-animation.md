@@ -62,17 +62,23 @@ In the beginning of the 1900s the first animated films started to emerge. Throug
 ####1908 - Fantasmagorie
 Created by Émile Cohl, Fantasmagorie was the first animated film developed using traditional animation techniques. The film consisted of a white stick-figure encountering and interacting with various figures that would morph into one another and into the background. Émile hand-drew each frame and shot all frames using negative film, giving the film its white figures/black background appearence.
 
->img
+![](https://upload.wikimedia.org/wikipedia/commons/4/44/Fantasmagorie_%28Cohl%29.GIF)
+
+Frame from Fantasmagorie
 
 ####1914 - Gertie the Dinosaur
 Created by the American cartoonist Winsor McCay, Gertie the Dinosaur was the first animated film that combined live action with hand-drawn animation. The film starts at the National History Museum, where McCay bets a colleague he can bring the dinosaurs back to life through drawings. He then proceeds to create 10,000 drawings, one slightly different from the other. In a scene, a boy comes to collect some of the drawings and ends up falling due to the immense quantity of them, showing the sheer size of the endeavour that was the animation process. Around 10 minutes into the film, Gertie would appear and follow McCay’s commands (for example, to bow, raise its foot, and so on). Gertie the Dinosaur was the first animated film to use  "McCay Split System", today known as keyframes, in which key positions were drawn first and the spaces between key positions were later filled by intermediate positions. 
 
->img
+![](https://upload.wikimedia.org/wikipedia/commons/b/b3/Winsor_McCay_%281914%29_Gertie_the_Dinosaur_-_Gerite_carries_MccCay_in_her_mouth.jpg)
+
+Frame from Gertie the Dinosaur
 
 ####1919 - Felix the Cat
 Felix the Cat, created in 1919 by Otto Messmer from Pat Sullivan Studios, was a silent cartoon that impressed and attracted audiences by the qualities of its character and its extraordinary situations. So much that Felix the Cat was the first animated film to be merchandised (into ceramics, postcards, stuffed toys, and so on). The cartoon Felix the Cat was updated in 1953 and began airing in the United States. The new cartoon featured new characters, and Felix with a slightly changed appearance and a "Magic Bag of Tricks".
 
->img
+
+
+On the left, Felix in Felix in Hollywood (1923), on the right, Felix current design.
 
 ####1928 - Steamboat Willie
 Walt Disney’s Steamboat Willie is perhaps the most well known animated film from its time. It was the first animated film to feature synchronized sound and a fully post-produced soundtrack. In the story, a mouse (Mickey Mouse) alternates working with making music. This was the third animated film to feature Mickey Mouse, but the first to be distributed. Steamboat Willie was acclaimed by its technical advancements and it was the first breakthrough for Walt Disney and his company, which is a reference in animation to this date.
