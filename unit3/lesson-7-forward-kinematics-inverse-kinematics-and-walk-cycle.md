@@ -4,17 +4,20 @@ As it was previously explained in the last lesson, when you animate a character 
 
 In Forward Kinematics, the **parent object** influences the **child object** in a hierarchical order. For example, the movement of the arm influences the movement of the forearm, which in turn influences the movement of the hand, as you can see in the animation below.
 
->FK img
+![](/assets/unit3/FK.gif)
+
 
 This method is really good for putting your characters in very specific poses, but it can also be very cumbersome, since you have to manually rotate and position each section of the character separately.
 
 Inverse Kinematics solves that issue by placing the control of the hierarchy on the last child object. In this case, instead of having to manually position and rotate each section of the arm separately, we only need to move the hand, and the rest of the arm will follow.
 
->IK img
+![](/assets/unit3/IK.gif)
+
  
 This makes it much quicker to pose a character, especially if you are creating a walk cycle, or moving the characters hips.
 
->hip node movement
+![](/assets/unit3/char_compare.gif)
+
 
 The downside of using IK is that it can be difficult to pose your character exactly as you want, since you lose control of the individual joints.
 
