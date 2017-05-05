@@ -15,3 +15,8 @@ Inverse Kinematics solves that issue by placing the control of the hierarchy on 
 This makes it much quicker to pose a character, especially if you are creating a walk cycle, or moving the characters hips.
 
 >hip node movement
+
+The downside of using IK is that it can be difficult to pose your character exactly as you want, since you lose control of the individual joints.
+
+####FK Setup
+
