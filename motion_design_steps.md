@@ -1,9 +1,9 @@
-### Motion Design Steps
+### Motion Design Pipeline
 
 When working with motion design the animator generally follows a few simple steps, and depending on the type of animation, some of these will have more importance than others. The steps to create motion design are as follows:
 
-+ Create a concept
-+ Create graphic assets
++ Concept creation
++ Assets development
 + Define how each element should be animated based on concept
 + Prepare assets and manage layers to be animated in after effects
 + Animate!
