@@ -100,3 +100,17 @@ In the 1960s, following the increasing popularity of home color televisions (int
 
 _Title screen from The Flintstones_
 
+####1980s - Present - Contemporary Digital Animation
+With the evolution of computers and computer generated graphics (CGI), the animation industry gained new tools to create animated films. Cartoons gradually stopped being drawn by hand and morphed into 2D computer graphics, and later into 3D animations. An example of this is the TV animated series The Simpsons. Created by Matt Groening in 1987, the series was originally hand-drawn and today is completed generated with the use of CGI. The series even uses 3D environments for some of its scenes. Other contemporary animated films use 3D environments and characters exclusively. This is the case of Toy Story, the first fully computer-animated feature film, produced by Pixar in 1995.
+
+![](https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png)
+
+_The Simpsons_
+
+![](https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg)
+
+_Toy Story_
+
+It is important to highlight, however, that the development of CGI doesn’t mean a complete break from the way animation was done at the beginning of the 20th century. Many of the techniques and the principles used in traditional animation remain the same to this day.
+
+
