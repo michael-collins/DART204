@@ -4,8 +4,8 @@ When working with motion design the animator generally follows a few simple step
 
 + Concept creation
 + Assets development
-+ Define how each element should be animated based on concept
-+ Prepare assets and manage layers to be animated in after effects
++ Definition of how each element should be animated based on concept
++ Preparation of assets and manage layers to be animated in after effects
 + Animate!
 
 Let’s take as an example a logo animation. In this case the concept creation is the step where the idea for a logo is developed. It can be based on either a name that was provided by a client, a specific product, etc.
