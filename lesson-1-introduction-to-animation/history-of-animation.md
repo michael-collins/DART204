@@ -5,7 +5,7 @@ Animation can be generally defined as the act of creating an illusion of movemen
 
 ###Before Film
 
-Images in motion were depicted as early as humans started recording their experiences through painting in paleolithic times. Drawings, carvings, and sculptures portraying human and animal activity in motion can be found in the walls of caves, utensils such as pottery, and even built structures. In the beginning of the 19th century a series of devices started to emerge, setting the stage for modern animation techniques. **Some of these early animation devices are:**
+Images in motion were depicted as early as humans started recording their experiences through painting in paleolithic times. Drawings, carvings, and sculptures portraying human and animal activity in motion can be found in the walls of caves, utensils such as pottery, and even built structures. In the beginning of the 19th century a series of devices started to emerge, setting the stage for modern animation techniques. Some of these early animation devices are:
 
 ####1820s: Thaumatrope 
 The thaumatrope was invented in the 1820s and consists of a disk with an image on each side 
