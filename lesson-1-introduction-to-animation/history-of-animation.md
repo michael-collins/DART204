@@ -92,3 +92,11 @@ Snow White and the Seven Dwarfs, produced by Walt Disney Productions in 1937, wa
 ![](http://vignette4.wikia.nocookie.net/disney/images/2/27/Snow-white-disneyscreencaps.com-4211.jpg)
 
 _Frame from Snow White and the Seven Dwarfs_
+
+####1960s - 1980s - Popularization and Saturday Morning Cartoons
+In the 1960s, following the increasing popularity of home color televisions (introduced in the United States in 1951), many studios started to adapt and to create cartoons for TV. Animated series such as Tom Terrific (1957), The Huckleberry Hound Show (1958), and The Flintstones (1960) were released and rapidly gained popularity. By the end of this period, cartoons had become commonplace in American TV.
+
+![](https://upload.wikimedia.org/wikipedia/en/5/51/The_Flintstones.jpg)
+
+_Title screen from The Flintstones_
+
