@@ -15,4 +15,4 @@ Here is a quick example of these properties in After Effects:
 
 A **mask** is not an animation property, but masks are very important and are used extensively in motion design. They are a little bit different because they need two elements to work: the animation element (in the example above, the cube) and the mask itself (the rectangle that animates over the cube).
 
-These four properties cover pretty much all of the animations we will create, and when coupled with masks, they consist of the core of motion design.
+These four properties cover pretty much all of the animations we will create, and when coupled with masks, they consist of the core of digital animation and motion design.
