@@ -1,8 +1,8 @@
-# **ART 204 - Unit 4**
+#ART 204 - Unit 4
 
-## Visual Effects
+##Environments and Visual Effects
 
-### **Overview**
+###Overview
 
 ...
 
