@@ -14,7 +14,7 @@ Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZk
 
 - **how to create a story (make it personal, engage people, be honest, plan ahead, don't self-criticize/let your ideas evolve and change, don't be afraid of starting over)**
 
-So how do you write a meaningful story? There is no short answer to that, but a good start is to think about your own experiences in life and important memories you have. Some memories may be sad, or you might remember something that taught you an important lesson. If you remember it vividly, this might be a good start for a story.
+So how do you write a meaningful story? There is no short answer to that, but a good start is to think about **your own experiences in life and important memories you have**. Some memories may be sad, or you might remember something that taught you an important lesson. If you remember it vividly, this might be a good start for a story. Don't confuse this with the idea that every story you write is specifically about you. What you want to focus on is the feeling you get, the emotion you feel when you remember something, and **how you translate that feeling into a story**. Also very important is how you transfer that emotion to other people. Make sure your story is **relatable**, and that other people understand what you are trying to convey.
 
 ### Pre-production
 
