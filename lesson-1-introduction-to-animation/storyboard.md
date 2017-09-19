@@ -6,7 +6,7 @@
 
 Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZkIX0
 
-- how to create a story (make it personal, engage people, be honest, plan ahead, don't self-criticize/let your ideas evolve and change, don't be afraid of starting from scratch)
+- how to create a story (make it personal, engage people, be honest, plan ahead, don't self-criticize/let your ideas evolve and change, don't be afraid of starting over)
 
 ### Pre-production
 
