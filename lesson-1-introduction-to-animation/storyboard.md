@@ -16,6 +16,10 @@ Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZk
 
 So how do you write a meaningful story? There is no short answer to that, but a good start is to think about **your own experiences in life and important memories you have**. Some memories may be sad, or you might remember something that taught you an important lesson. If you remember it vividly, this might be a good start for a story. Don't confuse this with the idea that every story you write is specifically about you. What you want to focus on is the feeling you get, the emotion you feel when you remember something, and **how you translate that feeling into a story**. Also very important is how you transfer that emotion to other people. Make sure your story is **relatable**, and that other people understand what you are trying to convey.
 
+Once you have a general idea of what your story is about, try to plan ahead and think how it all starts, and how it will end. This might help you to keep a clear goal and not get sidetracked. This doesn't mean that you can't change your mind though. Stories change and evolve constantly while you create them, so don't feel pressured to work on an idea just because it looked really good in the past, and don't be afraid of starting over.
+
+Writing can be a lonely process, but it doens't have to be. Look for other people's opinions and pay attention to their reaction to your story. Take all criticism and praise into account, but make sure to stay true to your vision. Remember this is your story and you are free to tell it any way you like it.
+
 ### Pre-production
 
 - what is pre-production in animation (animation outlines, character profiles)
