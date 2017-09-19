@@ -4,7 +4,7 @@
 * [Unit 1](unit1.md)
   * [Lesson 1 - Introduction to Animation](lesson-1-introduction-to-animation.md)
     * [History of Animation](lesson-1-introduction-to-animation/history-of-animation.md)
-    * [Pre-production and Storyboard](lesson-1-introduction-to-animation/storyboard.md)
+    * [Storytelling and Pre-production](lesson-1-introduction-to-animation/storyboard.md)
     * [Exercise 1](lesson-1-introduction-to-animation/exercise-1.md)
   * [Lesson 2 - Animation Principles 1](lesson1_animation_principles1.md)
     * [1. Timing and Spacing](1_timing_and_spacing.md)
