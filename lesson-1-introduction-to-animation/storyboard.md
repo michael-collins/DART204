@@ -31,6 +31,17 @@ Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZk
 ### Pre-production
 
 
+As in film, pre-production in animation is the planning period before any development is done. It is in this phase that your ideas and animation take shape as you better define characters, locations, story and as many other details as you can.
+
+The first step of pre-production is called **outline**. The outline is a document where you collect and organize all the elements of your story. This is a very important step in animation development, and very useful to not lose sight of the details about the plot, characters, etcetera.
+
+An outline can have many forms. It can be a simple list or a collection of images, text and even sounds. It depends on what works better for you as an animator.
+
+
+
+
+
+
 ```
 
 - what is pre-production in animation (animation outlines, character profiles)
@@ -48,7 +59,7 @@ Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZk
 
 
     
-As in film, pre-production in animation is the planning period before any development is done. It is in this phase that your ideas and animation takes shape as you better define characters, places, story and as many other details as you can.
+
 
 
 ```
