@@ -39,26 +39,37 @@ An outline can have many forms. It can be a simple list or a collection of refer
 
 The main elements of an outline are:
 
-- **story pitch or summarized plot:**
+- **Story pitch or summarized plot:**
 
-    A short version of our story from beggining to end, with all of the most important plot points. It can be presented as one or two short paragraphs, or even bullet points
+    A short version of your story with all of the most important plot points. It can be presented as a couple of short paragraphs, or even bullet points. Your story pitch should answer some of these questions:
+    - Who is the main character and what are his/her objectives and motivations?
+    - What is the character's initial condition, and how does that change over the course of the story?
+    - What are the obstacles and conflicts the main character faces?
     
-- **character profiles:**
+    
+- **Character profiles:**
 
     Everything there is to know about the characters in your story. A few examples are:
-    - character's name
-    - age and/or date of birth
+    - Character's name
+    - Age and/or date of birth
     - favorite food/color/type of music
-    - personality traits/general mood
-    - catchphrases
-    - anything else that may be essential to the plot (past traumas, goals in life, etc.)
+    - Personality traits/general mood
+    - Catchphrases
+    - Anything else that may be essential to the plot (past traumas, goals in life, etc.)
     
-    You should strive to create characters with opinions and feelings, and that also have consistency. Even if most of the details you list in this step end up not making into a scene in your animation, the fact that you thought about these details will help you create more believable characters.
+    You should strive to create characters with opinions and feelings, and that also have consistency. Even if most of the details you list in this step end up not making into a scene in your animation, the fact that you thought about them will help you create more believable characters.
     
-- **locations:**
+- **Locations:**
 
-
-
+    A list of locations with detailed descriptions. In this section you can specify:
+    - Where and when does your story happen (in a space station, in an arcade in the 1980's, inside a kitchen). Describe each landscape and scenery, or use pictures/illustrations as reference.
+    - Overall mood of the place
+    - Time of day/weather/season    
+    - How does the location affects the characters
+    
+    Depending on your story, locations can be almost as important as a character, so make sure to think about your locations very carefully.
+    
+- 
 
 ```
 
