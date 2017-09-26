@@ -100,21 +100,9 @@ The storyboard is and incredibly useful tool, and it contains a lot of informati
     
 Once the storyboard is in place, it serves as a guide for the entire production process, so it is important to take your time developing it and make sure that it is clear and easily understandable.
 
-```
-
-- what are storyboards and their importance
-
-- how to create a storyboard
-
-    - make it clear and easily understandable
-    - image composition
-    - scene descriptions
-    - use of arrows to depict moving characters/cameras
-```
 
 
 
-    
 
 
 
