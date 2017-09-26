@@ -92,12 +92,13 @@ The storyboard is and incredibly useful tool, and it contains a lot of informati
 - character posing and movement
 
     You can pose and even give the idea of movement to a character by using arrows close to or around it.
-    
+    >add examples
+
 - scene by scene description
 
     You can write a short description of the scene under each frame of a storyboard. This helps to clarify any details that might be hard to convey in the frame.
     
-Once the storyboard is in place, it serves as a guide for the rest of the production process, so it is important to make it clear and easily understandable.
+Once the storyboard is in place, it serves as a guide for the entire production process, so it is important to take your time developing it and make sure that it is clear and easily understandable.
 
 ```
 
