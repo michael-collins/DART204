@@ -69,7 +69,7 @@ The main elements of an outline are:
     
     Depending on your story, locations can be almost as important as a character, so make sure to think about your locations very carefully.
     
-- 
+When you finish your outline, and even as you organize and write your outline, you'll notice that your story evolves and sometimes can even change completely. This is a common ocurrence, so don't be afraid of rewriting your story as many times as you feel is necessary.
 
 ```
 
