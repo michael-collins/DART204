@@ -33,11 +33,29 @@ Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZk
 
 Pre-production is the planning period before any development is done. It is in this phase that your ideas and animation take shape as you better define characters, locations, story and as many other details as you can.
 
-The first step of pre-production is called **outline**. The outline is a document where you collect and organize all the elements of your story. This is a very important step in animation development, and very useful to not lose sight of the details about the plot, characters, etcetera.
+The first step of pre-production is called **outline**. The outline is a document where you collect and organize all the elements of your story. This is a very important step in animation development, and very useful to not lose sight of the details about the plot, characters, etc.
 
-An outline can have many forms. It can be a simple list or a collection of images, text and even sounds. It depends on what works better for you as an animator.
+An outline can have many forms. It can be a simple list or a collection of reference images, text and even sounds. It depends on what works better for you as an animator.
 
+The main elements of an outline are:
 
+- **story pitch or summarized plot:**
+
+    A short version of our story from beggining to end, with all of the most important plot points. It can be presented as one or two short paragraphs, or even bullet points
+    
+- **character profiles:**
+
+    Everything there is to know about the characters in your story. A few examples are:
+    - character's name
+    - age and/or date of birth
+    - favorite food/color/type of music
+    - personality traits/general mood
+    - catchphrases
+    - anything else that may be essential to the plot (past traumas, goals in life, etc.)
+    
+    You should strive to create characters with opinions and feelings, and that also have consistency. Even if most of the details you list in this step end up not making into a scene in your animation, the fact that you thought about these details will help you create more believable characters.
+    
+- **locations:**
 
 
 
