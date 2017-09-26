@@ -78,7 +78,8 @@ Once you complete this step, you are ready to start working on the...
 Storyboards are a visual representation of your story, and consist of a collection of illustrations or images that show your scenes in chronological order. The storyboard is incredibly useful, and it contains a lot of information about your animation, such as:
 
 - "camera" movement
-In a storyboard, you can define how a camera should move with the use of arrows inside or around the frame. Here are some examples:
+
+    In a storyboard, you can define how a camera should move with the use of arrows inside or around the frame. Here are some examples:
 >add examples
 
 - composition
@@ -91,7 +92,8 @@ In a storyboard, you can define how a camera should move with the use of arrows 
     You can pose and even give the idea of movement to a character by using arrows close to or around it.
     
 - scene by scene description
-You can write a short description of the scene under each frame of a storyboard. This helps to clarify any details that might be hard to convey in the frame.
+
+    You can write a short description of the scene under each frame of a storyboard. This helps to clarify any details that might be hard to convey in the frame.
 
 Once the storyboard is in place, it serves as a guide for the rest of the production process, so it is important to make it clear and easily understandable.
 
