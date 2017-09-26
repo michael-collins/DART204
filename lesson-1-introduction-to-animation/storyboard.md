@@ -79,12 +79,11 @@ Storyboards are a visual representation of your story. As the name suggests, it 
 
 The storyboard is and incredibly useful tool, and it contains a lot of information about your animation, such as:
 
-- "camera" movement
+- "camera" movement and scene composition
 
-    In a storyboard, you can define how a camera should move with the use of arrows inside or around the frame. Here are some examples:
+    In a storyboard, you can define how a camera should be positioned, and also how it should move with the use of arrows inside or around the frame. Here are some examples:
 >add examples
 
-- composition
 - scene cuts and action timing
 
     Because of the chronological nature of the storyboard, you can use it to easily define when things will happen in a scene, and when one scene will cut to the next.
