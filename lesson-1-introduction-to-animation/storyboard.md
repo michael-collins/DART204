@@ -97,38 +97,8 @@ The storyboard is and incredibly useful tool, and it contains a lot of informati
 
     You can write a short description of the scene under each frame of a storyboard. This helps to clarify any details that might be hard to convey in the frame.
     
+- extras
+    You can add even more details to your storyboard such as scene numbers (if you have a lot of scenes), dialogue for each character, notes about color/mood/music, etc. The level of detail contained in a storyboard ultimately depends on how complex the animation is and what works for you as an animator.
+    
 Once the storyboard is in place, it serves as a guide for the entire production process, so it is important to take your time developing it and make sure that it is clear and easily understandable.
-
-
-
-
-
-
-
-```
-For pre-production:
-You need a outline/show bible and a final draft script.
-
-You need character, location and prop designs. Pose sheets of the same, plus turnarounds and expression sheets. Mouth charts are needed too if you have dialogue, this is for all speaking characters.
-Locations would need at least two views, and props would need images showing their functions, if specific. You'd also need size comparisons as well.
-Any special effects animation should have its styling designed at this point as well, so that layout can take its cues from the style.
-You also need complete colour models/ colour guide done for all 4 categories. Digital colour will need precise colour chips or palette for painting the animation.
-The idea is to idiot-proof the material so that anyone can understand what characters look like, how they generally move, what their general expressions and etotions are, what the settings are, and how props work and are used.
-
-Voice track should be recorded at this point.
-
-Then you need storyboards done for the entire 10 minutes.
-Storyboards need all scenes numbered, re-used cited, camera directions shown and labelled, and dialogue labelled.
-
-Then the 'board needs to be slugged (timed out per the entire show, and per scene), and then an animatic shot.
-Then the slugging needs to be broken down into sheet timing for the exposure sheets--based on the voice track, and then layout of the individual scenes begun.
-Layout must supply key poses and timing charts fo the animation, including any breakdowns of the secondary actions and major inbetweens. Also should have mouth charts and all major lip-synch posed out, so that animation should essentially just use the provided moths and poses.
-Layouts can be medium rough-but a sample clean drawing should be provided in every scene to give animation an idea of the line quality called for.
-
-While Layout is commencing, background painting should be undertaken.
-
-This so that all the studio has to do is supply animation key poses, clean-up and in betweens--and whatever post-production services they agree to.
-
-```
-
 
