@@ -1,4 +1,12 @@
-### Lesson 6: Character Design and Rigging
+### Lesson 6: Character Design
+
+```
+Character pose sheets, turnarounds and expression sheets. Mouth charts are needed too if you have dialogue, this is for all speaking characters.
+
+The idea is to define what characters look like, how they generally move, what their general expressions and emotions are.
+
+```
+
 
 When we design a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
 
