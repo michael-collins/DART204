@@ -17,12 +17,10 @@ Writing doesn't have to be a lonely process. Look for other people's opinions an
 Finally, as you write your story, try to imagine it as a movie/animation. Ask yourself how does it translate to the screen, what do the characters and locations look like, and how does that affect the story itself. This will make the process of turning your story into an animation later on much easier.
 
 
-
 ```
-It is said that a good animation is more focused in story than in technique
+Add pixar rules of storytelling
+https://www.visualnews.com/2015/09/23/22-rules-to-perfect-storytelling-from-a-pixar-storyboard-artist/
 ```
-
-
 
 Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZkIX0
 
@@ -31,9 +29,11 @@ Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZk
 ### Pre-production
 
 
-Pre-production is the planning period before any development is done. It is in this phase that your ideas and animation take shape as you better define characters, locations, story and as many other details as you can.
+Pre-production is the planning period before any development is done. It is in this phase that your ideas and animation take shape as you better define characters, locations, story and as many other details as you can. The first step of pre-production is called...
 
-The first step of pre-production is called **outline**. The outline is a document where you collect and organize all the elements of your story. This is a very important step in animation development, and very useful to not lose sight of the details about the plot, characters, etc.
+####Outline
+
+The outline is a document where you collect and organize all the elements of your story. This is a very important step in animation development, and very useful to not lose sight of the details about the plot, characters, etc.
 
 An outline can have many forms. It can be a simple list or a collection of reference images, text and even sounds. It depends on what works better for you as an animator.
 
@@ -71,9 +71,11 @@ The main elements of an outline are:
     
 When you finish your outline, and even as you organize and write your outline, you'll notice that your story evolves and sometimes can even change completely. This is a common ocurrence, so don't be afraid of rewriting your story as many times as you feel is necessary.
 
-```
+Once you complete this step, you are ready to start working on the...
 
-- what is pre-production in animation (animation outlines, character profiles)
+####Storyboard
+
+```
 
 - what are storyboards and their importance
 
