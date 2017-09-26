@@ -17,12 +17,10 @@ Writing doesn't have to be a lonely process. Look for other people's opinions an
 Finally, as you write your story, try to imagine it as a movie/animation. Ask yourself how does it translate to the screen, what do the characters and locations look like, and how does that affect the story itself. This will make the process of turning your story into an animation later on much easier.
 
 
-```
-Add pixar rules of storytelling
+>Add pixar rules of storytelling
 https://www.visualnews.com/2015/09/23/22-rules-to-perfect-storytelling-from-a-pixar-storyboard-artist/
-```
 
-Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZkIX0
+>Pixar in a box video: https://www.youtube.com/watch?time_continue=175&v=1rMnzNZkIX0
 
 
 
