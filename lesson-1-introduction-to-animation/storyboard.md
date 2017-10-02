@@ -12,7 +12,7 @@ So how do you write a meaningful story? There is no short answer to that, but a 
 
 Try to **keep your story simple**, at least at first. Once you have a general idea of what your story is about, try to plan ahead and think how it all starts, and how it will end. This might help you to keep a clear goal and not get sidetracked. This doesn't mean that you can't change your mind though. **Stories change and evolve constantly** while you create them, so don't feel pressured to work on an idea just because it looked really good in the past, and don't be afraid of starting over.
 
-Writing doesn't have to be a lonely process. Look for other people's opinions and pay attention to their reaction to your story. Take all criticism and praise into account, but make sure to stay true to your vision. Remember this is your story and you are free to tell it any way you like it.
+Writing doesn't have to be a lonely process. Look for other people's opinions and pay attention to their reaction to your story. Take all criticism and praise into account, but make sure to stay true to your vision. Remember this is your story and you are free to tell it any way you like.
 
 Finally, as you write your story, try to imagine it as a movie/animation. Ask yourself how does it translate to the screen, what do the characters and locations look like, and how does that affect the story itself. This will make the process of turning your story into an animation later on much easier.
 
