@@ -21,7 +21,7 @@ Emma Coats, a storyboard artist from Pixar has compiled a very helpful list of r
 1. You admire a character for trying more than for their successes.
 2. You gotta keep in mind what’s interesting to you as an audience, not what’s fun to do as a writer. They can be very different.
 3. Trying for theme is important, but you won’t see what the story is actually about until you’re at the end of it. Now rewrite.
-4. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
+4. Once upon a time there was ----. Every day, ----. One day ----. Because of that, ----. Because of that, ----. Until finally ----.
 5. Simplify. Focus. Combine characters. Hop over detours. You’ll feel like you’re losing valuable stuff but it sets you free.
 6. What is your character good at, comfortable with? Throw the polar opposite at them. Challenge them. How do they deal?
 7. Come up with your ending before you figure out your middle. Seriously. Endings are hard, get yours working up front.
