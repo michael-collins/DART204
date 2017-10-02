@@ -44,7 +44,6 @@ Emma Coats, a storyboard artist from Pixar has compiled a very helpful list of r
 
 ### Pre-production
 
-
 Pre-production is the planning period before any development is done. It is in this phase that your ideas and animation take shape as you better define characters, locations, story and as many other details as you can. The first step of pre-production is called...
 
 ####Outline
