@@ -91,7 +91,7 @@ Once you complete this step, you are ready to start working on the...
 
 ####Storyboard
 
-Storyboards are a visual representation of your story. As the name suggests, it consists of a collection of illustrations or images, generally pinned to a board, showing your scenes in chronological order. Storyboards can be as detailed or as simple as you want, and you don't necessarily need to use an actual board, as even small thumbnails scribbled on paper should be fine, as long as that clearly conveys the ideas your story.
+Storyboards are a visual representation of your story. As the name suggests, it consists of a collection of illustrations or images, generally pinned to a board, showing your scenes in chronological order. Storyboards can be as detailed or as simple as you want, and you don't necessarily need to use an actual board, as even small thumbnails scribbled on paper should be fine, as long as that clearly conveys the ideas in your story.
 
 The storyboard is and incredibly useful tool, and it contains a lot of information about your animation, such as:
 
