@@ -80,7 +80,7 @@ The storyboard is and incredibly useful tool, and it contains a lot of informati
 - "camera" movement and scene composition
 
     In a storyboard, you can define how a camera should be positioned, and also how it should move with the use of arrows inside or around the frame.
-![]()
+![](/assets/unit1/storyboard_cam_examples.jpg)
 
 - scene cuts and action timing
 
