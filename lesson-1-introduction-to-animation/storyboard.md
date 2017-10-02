@@ -16,7 +16,7 @@ Writing doesn't have to be a lonely process. Look for other people's opinions an
 
 Finally, as you write your story, try to imagine it as a movie/animation. Ask yourself how does it translate to the screen, what do the characters and locations look like, and how does that affect the story itself. This will make the process of turning your story into an animation later on much easier.
 
-Emma Coats, a storyboard artist from Pixar has compiled a very helpful list of rules on how to create a great story:
+Emma Coats, a storyboard artist from Pixar has compiled a very helpful list of rules on how to create great stories and characters:
  
 1. You admire a character for trying more than for their successes.
 2. You gotta keep in mind what’s interesting to you as an audience, not what’s fun to do as a writer. They can be very different.
