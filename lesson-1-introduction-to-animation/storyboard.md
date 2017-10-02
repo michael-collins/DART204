@@ -114,6 +114,7 @@ The storyboard is and incredibly useful tool, and it contains a lot of informati
     You can write a short description of the scene under each frame of a storyboard. This helps to clarify any details that might be hard to convey in the frame.
     
 - extras
+
     If necessary, you can add details such as scene numbers, dialogue for each character, notes about color/mood/music, etc. The level of detail contained in a storyboard ultimately depends on how complex the animation is and what works for you.
     
 Once the storyboard is in place, it serves as a guide for the entire production process, so it is important to take your time developing it and make sure that it is clear and easily understandable.
