@@ -86,9 +86,9 @@ The storyboard is and incredibly useful tool, and it contains a lot of informati
 
     Because of the chronological nature of the storyboard, you can use it to easily define when things will happen in a scene, and when one scene will cut to the next.
     
-- character posing and movement
+- character and prop movement
 
-    You can pose and even give the idea of movement to a character by using arrows close to or around it.
+    You can pose and even give the idea of movement to characters and props by using arrows close to or around them.
     >add examples
 
 - scene by scene description
