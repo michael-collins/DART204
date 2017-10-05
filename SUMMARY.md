@@ -26,7 +26,7 @@
 * [Unit 2](unit2.md)
   * [Lesson 4 - Introduction to Motion Design](lesson3_introduction_motion_design.md)
     * [Digital Animation Properties](digital-animation-properties.md)
-    * [Motion Design Pipeline](motion_design_steps.md)
+    * [Motion Design Definition and Pipeline](motion_design_steps.md)
     * [Exercise 4](exercise-4.md)
   * [Lesson 5 - Graph Editor, Audio and Timing](lesson4_grapheditor_audio_timing.md)
     * [Keyframe Easing and Graph Editor](keyframe_easing.md)
