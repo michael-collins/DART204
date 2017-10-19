@@ -1,6 +1,7 @@
 # Summary
 
 * [Overview](README.md)
+* [Grading](grading.md)
 * [Unit 1](unit1.md)
   * [Lesson 1 - Introduction to Animation](lesson-1-introduction-to-animation.md)
     * [History of Animation](lesson-1-introduction-to-animation/history-of-animation.md)
