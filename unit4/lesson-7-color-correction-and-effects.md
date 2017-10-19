@@ -1,4 +1,4 @@
-###Lesson 8 Color Correction and Effects
+###Lesson 8 - Environments and props
 
 
 
