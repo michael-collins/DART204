@@ -1,6 +1,6 @@
 # Grading
 
-## 11 Exercises
+## Exercises
 
 | Exercise Criteria |  |
 | :--- | :--- |
@@ -9,7 +9,7 @@
 | Late: | 10% |
 |  | 100% |
 
-## 4 projects
+## Projects
 
 | Project Criteria |  |
 | :--- | :--- |
