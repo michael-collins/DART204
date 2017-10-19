@@ -6,7 +6,7 @@
 | :--- | :--- |
 | Followed all assignment directions | 70% |
 | Craft/Attention to detail: Was the work crafted at the highest possible level? | 20% |
-| Late: | 10% |
+| Assignment submitted on time | 10% |
 |  | 100% |
 
 ## Projects
