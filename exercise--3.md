@@ -1,16 +1,3 @@
-### Exercise 3
+### Exercise 3.1 - Refined bouncing ball
 
-#### Guidelines
-
-In this lesson you have learned the remaining 6 basic principles of animation:
-
-7. Anticipation
-8. Follow through and Overlapping action
-9. Staging
-10. Secondary Action
-11. Solid Drawing
-12. Appeal
-
-For this exercise your task is to create an animation that contains **at least 3 of the 12 principles of animation**. You will be given a base file with a few base elements to create your animation, and you can pick from any of the examples seen in the last two lessons, or create your own.
-
-> Video guide for exercise 3
+Animate a bouncing ball moving from left to right until it reaches a full stop. To complete this animation utilize the principles of timing, ease in and out, arcs and squash and stretch.
