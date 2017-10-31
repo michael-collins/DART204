@@ -1,1 +1,1 @@
-### Lesson 4 - Introduction to Motion Design
+### Lesson 4 - Introduction to Digital Animation and Motion Design
