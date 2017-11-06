@@ -1,1 +1,14 @@
-Effects, color grading, noise, vignette, depth of field, motion blur, camera animation, parallax
+color grading
+
+camera
+
+camera animation
+parallax
+vignette
+depth of field
+
+visual effects
+
+noise
+motion blur
+particles
