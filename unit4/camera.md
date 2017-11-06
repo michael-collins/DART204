@@ -10,6 +10,9 @@ How we position our camera and how we stage a scene in animation is very importa
 
 Parallax occurs when you have background elements further away from the camera, and foreground elements closer to the camera. When the camera moves, the elements that are further away move slower than elements that are up close, giving a 2D scene a sense of depth. The largest the distance between these elements, the more pronounced the effect is. The easiest way to apply parallax to a scene is to separate your elements in layers, and then animate them at different speeds.
 
+>video parallax
+>video no parallax
+>video layers
 
 
 ####Depth of Field
