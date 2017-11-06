@@ -27,8 +27,10 @@ Depth of field relates to the distance of an element in relation to the camera, 
 
 Vignetting has its roots on an effect that resulted from the blocked light on the border of photographic lenses. This effect is achieved by fading the edges of a scene by using **brightness**, **saturation** or **blur** effects. Vignette is especially effective in directing the viewer's attention. It would originally be centered on the frame, but in animation we can use it more creatively to highlight different areas of an image.
 
->image no vignette
->image vignette brightness
->image vignette not centered
+![](/assets/with_without_vignette.png)
+_an example of the same scene with (left) and without (right) vignette_
+
+![](/assets/vignette_offcenter.png)
+_vignette being used off-center to direct the viewer's attention_
 
 
