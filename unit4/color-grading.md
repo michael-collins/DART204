@@ -1,6 +1,6 @@
 ##Color Grading
 
-There are many opportunities to introduce color in the process of creating an animation. Sometimes while creating characters or drawing environments, colorizing your illustrations can give a better idea of what that element represents in the story. While this may be a good idea early on as a way to create a better sense of each character's identity and the general mood of an environment, sometimes when putting these elements together the artist may realize that they have disparate color palettes, and their looks do not match.
+There are many opportunities to introduce color in the process of creating an animation. Sometimes while creating characters or drawing environments, colorizing your illustrations can give a better idea of what that element represents in the story. While this may be a good idea early on as a way to create a better sense of each character's identity and the general mood of an environment, sometimes when putting these elements together the artist may realize that they have disparate color palettes, and their look do not match.
 
 The simplest way to deal with this kind of situation is by using color grading, a process commonly used in film production. Color grading can be a very simple, or very involved process, depending on the desired result, and it is incredibly versatile. It can be used for brightness and saturation correction (sometimes referred to as color correction) or it can completely transform a scene, sometimes literally from day to night.
 
