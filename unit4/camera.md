@@ -12,5 +12,7 @@ Parallax is the effect that occurs when, from the point of view of a moving came
 
 ####Depth of Field
 
+
+
 ####Vignette
 
