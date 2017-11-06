@@ -13,14 +13,19 @@ Color grading tools can be found in pretty much every major editing and animatio
 There are a number of color grading tools in After Effects, and the most commonly used are:
 
 **Brightness and Contrast**
+This one is very self explanatory. It controls the brightness and the contrast of a scene.
 
 **Levels**
+The levels tool is a more nuanced way of controlling the brightness and contrast of a scene. It has separate control for the white and black portions of an image.
 
 **Color Balance**
+Color Balance relates to the **temperature** of the image, and with this tool you can easily change the entire scene from "hot" to "cold" in just a few slider adjustments.
 
 **Hue and Saturation**
+In it's simplest use, this tool can be a way to introduce more color to your scene, or de-saturate it entirely by adjusting the "saturation" slider. In more advanced cases, it can be used to completely replace colors in a scene.
 
 **Curves**
+The standard in color grading tools. As powerful as it is confusing for a beginner. The curves tool can control brightness, contrast, saturation, as well as red, green and blue levels separately, all in one neat interface. Once you understand how the curves work, you can change the mood of an entire scene using just this tool.
 
 **Lumetri Color**
 The latest addition to the color grading tools in After Effects is also the most versatile. It combines most of the functionality of the previously mentioned tools in just one interface. For this reason, it can be overwhelming or confusing at first, so it is a good idea to use and understand the other basic tools before trying this one.
