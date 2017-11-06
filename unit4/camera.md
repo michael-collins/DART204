@@ -6,9 +6,9 @@ While it is natural to think about the camera in relation to film development, w
 
 How we position our camera and how we stage a scene in animation is very important, but it is equally important to direct the viewer's gaze to the important areas of a scene. This brings us back all the way to the beginning of the course, where we learned about the principle of animation called **staging**. This principle revolves around the idea that animated elements should be well distributed over a scene, and over time, so the viewer knows where to look and the story doesn't get lost. This is a great starting point, but we can greatly enhance this process with **camera effects**. These effects can be used to make our scenes more dynamic, give our environment more depth, and also give a better direction to the viewer about what is the most important element on screen at any given time.
 
-Parallax
+####Parallax
 
-Depth of Field
+####Depth of Field
 
-Vignette
+####Vignette
 
