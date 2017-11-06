@@ -14,8 +14,6 @@ There are a number of color grading tools in After Effects, and the most commonl
 
 **Brightness and Contrast**
 
-
-
 **Levels**
 
 **Color Balance**
