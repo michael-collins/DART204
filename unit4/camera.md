@@ -8,7 +8,7 @@ How we position our camera and how we stage a scene in animation is very importa
 
 ####Parallax
 
-Parallax is the effects that occurs when some scene elements are further away from than the camera, while other elements are closer. The largest the distance between these elements, the more pronounced the effect is.
+Parallax is the effect that occurs when, from the point of view of a moving camera, some scene elements are further away than others. The largest the distance between these elements, the more pronounced the effect is.
 
 ####Depth of Field
 
