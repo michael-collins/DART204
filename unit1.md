@@ -1,6 +1,6 @@
 # ART 204 - Unit 1
 
-## Animation Principles
+## Introduction to Animation and Animation Principles
 
 ### Overview
 
