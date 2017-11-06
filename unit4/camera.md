@@ -17,7 +17,17 @@ Parallax occurs when you have background elements further away from the camera, 
 
 ####Depth of Field
 
+Depth of field relates to the distance of an element in relation to the camera, and what element the camera is focusing on. When an element is in focus, it appears sharp, while other elements in different distances from the camera will appear blurred, or out of focus. This effects happens naturally when using a camera in real life, but in 2D animation the effects needs to be carefully planned and applied. When used well, it can add a great sense of depth to the scene. Since our eyes tend to give preference to focused images, it is also very effective to direct the viewer's gaze to important elements in the scene.
 
+>video no dof
+>video dof far
+>video dof near
 
 ####Vignette
+
+Vignetting has its roots on an effect that resulted from the blocked light on the border of photographic lenses. This effect is achieved by fading the edges of a scene by using **brightness**, **saturation** or **blur** effects. Vignette is especially effective in directing the viewer's attention. It would originally be centered on the frame, but in animation we can use it more creatively to highlight different areas of an image.
+
+>image vignette brightness
+>image vignette not centered 
+
 
