@@ -47,6 +47,7 @@
     * [Exercise 8](unit4/lesson-7-color-correction-and-effects/exercise-8.md)
   * [Lesson 9 - Color grading, effects and post production](unit4/lesson-7-color-correction-and-effects/lesson-9-color-grading-effects-and-post-production.md)
     * [Color Grading](unit4/color-grading.md)
+    * [Camera Effects](unit4/camera.md)
     * Exercise 9
   * [Project 4](unit4/project-4.md)
 
