@@ -12,10 +12,19 @@ Color grading tools can be found in pretty much every major editing and animatio
 
 There are a number of color grading tools in After Effects, and the most commonly used are:
 
+**Brightness and Contrast**
+
+
+
 **Levels**
 
-**Brightness and Contrast**
+**Color Balance**
 
 **Hue and Saturation**
 
-**Color Balance**
+**Curves**
+
+**Lumetri Color**
+The latest addition to the color grading tools in After Effects is also the most versatile. It combines most of the functionality of the previously mentioned tools in just one interface. For this reason, it can be overwhelming or confusing at first, so it is a good idea to use and understand the other basic tools before trying this one.
+
+The main thing to keep in mind when color grading a scene is the **mood**. Is this a happy scene? Maybe it needs more color. High contrast and green/purple tones can lend a sense of mystery and tension. Desaturated and blue tones can have a sad or serious conotation.
