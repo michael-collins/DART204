@@ -1,1 +1,1 @@
-Effects, color correction, noise, vignette, depth of field, motion blur, 3D layers, camera animation
+Effects, color grading, noise, vignette, depth of field, motion blur, camera animation, parallax
