@@ -8,7 +8,7 @@ Write a short story with the theme "journey". A journey is series of situations,
 
 ## Steps to Completion
 
-###1.An easy way to start is by following Pixar's storytelling tip #4:
+####1.An easy way to start is by following Pixar's storytelling tip #4:
 
 Once upon a time there was ----.
 Every day, ----.
@@ -17,17 +17,17 @@ Because of that, ----.
 Because of that, ----.
 Until finally ----.
 
-###2.Expand on this initial set of ideas and rewrite your story clearly separated in three acts.
+####2.Expand on this initial set of ideas and rewrite your story clearly separated in three acts.
 
 **Beginning:** The introduction of characters, their initial situation and their goals.
 **Middle:** The situation changes and obstacles appear (crisis).
 **End:** The obstacles are overcome (climax). The characters, now changed by their journey, achieve their goals, sometimes at a price.
 
-###3. Expand and rewrite, one more time.
+####3. Expand and rewrite, one more time.
 
 By rewriting your story you will get a chance to deepen your understanding of your own characters and their objectives, and refine your story to be more clear and relatable.
 
-###4. Post your final story as a PDF file to the course page following this naming convention:
+####4. Post your final story as a PDF file to the course page following this naming convention:
 
 art204_exercise1_lastname_firstname.pdf
 
