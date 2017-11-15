@@ -33,11 +33,11 @@ While creating this animation, always refer back to the principles of timing and
 
 5. Remove the previous page and place another sheet of paper on top of the reference and once again secure it on the binder or with some tape.
 
-6. Using the reference, draw the second position. Write the number 12 on the top right corner of the page and circle it.
+6. Using the reference, draw the second position. Write the number 7 on the top right corner of the page and circle it.
 
 7. Repeat steps 5 and 6 until you have created all of the keyframes from the reference.
 
-8. Now that you have your keyframes it is time find and draw your extremes. Take keyframes 0 and 12 and place a sheet of paper between them. Place them on top of the reference and secure them on the binder or with tape, always trying to keep them aligned. Once you finished drawing the frame, number it accordingly.
+8. Now that you have your keyframes it is time find and draw your extremes. Take keyframes 0 and 7 and place a sheet of paper between them. Place them on top of the reference and secure them on the binder or with tape, always trying to keep them aligned. Once you finished drawing the frame, number it accordingly.
 
 8. Now that you have your keyframes and extremes it is time to draw your inbetweens. Go from keyframe to extreme, then extreme to the next keyframe and so on. Flip through your pages constantly to check if the movement looks right.
 
