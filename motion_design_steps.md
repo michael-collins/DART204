@@ -12,14 +12,14 @@ A simple way to differentiate the two is by thinking about them in relation to c
 
 Notice how the shapes **flow** from one to the next seamlessly, and follow the timing of the sound effects and music. These are very good examples of how good graphic design can be elevated by motion design to deliver a clear and engaging message.
 
-### Motion Design Pipeline
+### Digital Animation Pipeline
 
 When working with motion design the animator generally follows a few simple steps, and depending on the type of animation, some of these will have more importance than others. The steps to create motion design are as follows:
 
 + Concept creation
 + Assets development
 + Definition of how each element should be animated based on concept
-+ Preparation of assets and manage layers to be animated in after effects
++ Preparation of assets and layers to be animated in after effects
 + Animate!
 
 Let’s take as an example a logo animation. In this case the concept creation is the step where the idea for a logo is developed. It can be based on either a name that was provided by a client, a specific product, etc.
