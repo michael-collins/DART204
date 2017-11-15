@@ -23,7 +23,7 @@ While creating this animation, always refer back to the principles of timing and
 
 ###Steps to Completion
 
-1. Print the reference sheet from [this link](https://github.com/gibias/ART204/raw/master/reference_sheet.pdf).
+1. Print the reference sheet from [this link](https://drive.google.com/open?id=1GxbbEN1o-KZXT18vsSLQKOfaWjzjFfim).
 
 2. Place the reference sheet on a table or binder and secure the corners with tape.
 
