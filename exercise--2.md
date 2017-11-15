@@ -15,7 +15,6 @@ Try to create a sense of weight by using the principles of timing and spacing, a
 - Transparent adhesive tape/hole puncher
 - A binder
 - A pencil
-- A ruler
 - Scanner, photographic camera or cellphone to digitize your drawings
 - Adobe After Effects to create a sequence from your drawings and export the final video
 
