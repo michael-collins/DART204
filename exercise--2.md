@@ -23,9 +23,7 @@ Try to create a sense of weight by using the principles of timing and spacing, a
 
 ###Steps to Completion
 
-1. Print the reference sheet from this link.
-
->add link
+1. Print the reference sheet from [this link](https://drive.google.com/open?id=1ZROuSFVzVTsoUA-qa3zVKRT-1IxJQZTU).
 
 2. Place the reference sheet on a table or binder and secure the corners with tape.
 

@@ -15,7 +15,6 @@ While creating this animation, always refer back to the principles of timing and
 - Transparent adhesive tape/hole puncher
 - A binder
 - A pencil
-- A ruler
 - Scanner, photographic camera or cellphone to digitize your drawings
 - Adobe After Effects to create a sequence from your drawings and export the final video
 
