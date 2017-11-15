@@ -1,66 +1,42 @@
-### Lesson 6: Character Design
+##Lesson 6: Character Design
 
-```
-Character pose sheets, turnarounds and expression sheets. Mouth charts are needed too if you have dialogue, this is for all speaking characters.
+Designing a great character is a prerequisite for the development of a striking and memorable story. A great character design goes beyond creating a character that is visually appealing or complex. You want to develop characters people can relate to, characters they imagine meeting some day and sharing their stories. 
 
-The idea is to define what characters look like, how they generally move, what their general expressions and emotions are.
+Great characters invariably generate emotional responses from the viewers in the form of joy, sadness, compassion, and anger. You want people to feel something when they meet your character for the first time. You want them to root for your character and emotionally react when his/her journey come to an end.
 
-```
+Designing a great character takes time. It involves trying out different shapes, colors, pieces of clothing, facial expressions, movement (to name a few) in order to define features that bring its personality to life.
 
+![](http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/1384621_orig.jpg?654)
 
-When we design a character to be animated in After Effects, we first need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
+_Pixar character design for Russell, from the movie UP_
 
-Rigging is the process of preparing a character to be animated in the future, and it's like creating a character's bone structure. In this lesson we will study two different rigging styles, each with its advantages and disadvantages.
+Here is a list of tips inspired by Pixar’s approach to character design, which can help you to develop a successful character:
 
-The first method consists of parenting or linking parts of a character to create a hierarchy. For example, we can parent the hand to the forearm, so when we move the forearm, the hand will follow. If we do that again between the forearm and the arm, we will create a hierarchy. This process makes animating a character much more efficient and intuitive, and we'll call it **"Hierarchy Rigging"**.
+1. Find characters you like and try to answer these questions: 
 
-With the second method we will create flexible limbs for our character with the use of lines in After Effects. This gives us a lot more possibilities for crazy animations, like flimsy arms and legs that can extend endlessly, but can also be a little harder to control. This method is called **"Rubberhose"**.
+ - What is it about these characters that make you like them?
+ - What are their particular personality traits?
+ - How these traits translate into their physical appearance and into the way they move?
+ - How do they fit within their stories? 
 
-In this lesson we will study two different rigging styles, each with its advantages and disadvantages.
+2. Think about your audience. Different audiences will have different tastes (for example, characters designed for small children usually have basic colors and shapes. See Pocoyo and Big Block SingSong for characters designed with a very young audience in mind).
 
-Let's start with a simple character design:
+3. Make sure your character is unique. If you decide to create a talking circle, what makes it different and more special than the other talking circles that already exist?
 
->character image
+4. Exaggerate your character's features to make its personality pop.
 
-This character was created in Adobe Illustrator, and its source file is available for download from the course page. When you open the .AI file, you'll notice that each part of the character's body is in a separate layer. Just as we did previously for the logo animation, we need to have each part that will be animated in its own layer, so the importing process in After Effects will be much more streamlined.
+5. Choose colors and shapes that allude to your character's personality and emotions.
 
-#### Rigging Method 1 - Hierarchy
+6. It is all about your character’s personality, so make sure s/he has a strong one! It doesn’t matter if your character is a hero or a villain, his/her personality must be interesting and clear, so your audience will have an emotional response to it.
 
-In this method we will create a hierarchy to help us control all of the elements of our character.
+7. Give your character a range of emotions as your story evolves. This will help showcasing even more his/her personality. You don’t want to end up with a monotone character (unless that is part of your story!).
 
-One of the first steps we need to perform after we have the character elements in separate layers and imported into After Effects is to position the **anchor point** of each piece properly.
+8. Give your character something to look for, a flaw to overcome. This will make your character more complex and will hook the audience to look forward to a solution.
 
-The anchor point is what defines your layer's center of rotation. As an example, the center of rotation of an arm is the shoulder, while the center of rotation of the forearm is the elbow. For this reason it is very important to place the anchor points of your layers properly **before you start rigging**.
+9. Create a backstory for your character. Where does your character come from? What are his/her past experiences? What big events shaped your character’s personality and the way s/he sees the world? Even if you won’t use it in your animation, a backstory helps to define your character’s personality and aspirations, and might be as interesting as his/her present journey. You might end up liking it so much, you you feel inspired to create an ‘origins’ story.
 
-To move the anchor point of a layer, select the layer or object, click the **Pan behind** tool, then click the anchor point and move it to the desired position.
+10. Create an interesting world for your character. The world you character lives in is as important to the story as the character itself, so spend time developing it.
 
-![](/assets/unit3/anchor_point.gif)
+11. Reflect upon and redraw everything you create. Try out different facial features, body shapes, pieces of clothing, props... Small changes can have a huge impact on your final animation, so spend time fine-tuning everything you create.
 
-With the anchor points properly placed, we can start **parenting** the layers to each other.
-
-To parent one object to another in After Effects, all you need to do is click the pick whip icon and drag from the **child** layer, to the **parent** layer. The dropdown next to the pick whip will then show the name of the parent layer:
-
-![](/assets/unit3/parent_layers.gif)
-
-Once that is done, whenever you rotate or move the **parent layer**, the **child layer** will follow.
-
-In this type of rigging we can choose between two different methods we can use to animate our character: **forward kinematic** and **inverse kinematic**. We will talk more about these in the next lesson.
-
-#### Rigging Method 2 - Rubberhose
-
-In this method, the limbs (and sometimes de whole body) of our character are composed of lines created directly in After Effects. It simulates one of the earliest and most popular styles of animation used in the United States, starting with cartoons such as Felix the Cat and Popeye.
-
-In the early days of animation, this method was mostly used to simplify the process of character animation, since it gave much more freedom to the animator to create extreme poses without the constraint of realism. Today this method is still used for its simplicity, but it is mostly a stylistic choice.
-
-Here is an example of a modern animation using the Rubberhose style:
-
-![](https://static1.squarespace.com/static/552a5cc4e4b059a56a050501/57c4256b20099e1e8b3e1427/57c42632f7e0ab69ed29be0c/1472472633069/LAGifathon11.gif?format=750w)
-
-© SlimJim Studios
-
-
-
-
-
-
-
+You can find more useful tips in Lesson 1, under Storytelling and Pre-production.

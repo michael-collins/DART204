@@ -1,13 +1,1 @@
-color grading
-
-camera
-
-parallax
-vignette
-depth of field
-
-visual effects
-
-noise
-motion blur
-particles
+###Lesson 8 - Color grading, effects and post-production
