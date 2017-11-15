@@ -1,5 +1,5 @@
-### Lesson 4 - Introduction to Digital Animation and Motion Design
+### Lesson 4 - Introduction to Digital Animation
 
 importing assets to after effects
-video and composition settings
-keyframes
+compositions, layers and keyframes
+render and composition settings
