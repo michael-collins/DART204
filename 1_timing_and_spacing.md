@@ -1,8 +1,8 @@
 #### 1. Timing and Spacing
 
-Timing and spacing are the base of every animated work. As animators, time is our main resource and constraint, and in animation we convey motion by placing \(or spacing\) images in time. By combining timing and spacing we create the illusion of movement.
+Timing and spacing are the base of every animated work. As animators, time is our main resource and constraint, and in animation we convey motion by placing (or spacing) images in time. By combining timing and spacing we create the illusion of movement.
 
-Timing in animation is counted in frames, and most animations created for broadcast or film today utilize a rate of 24 frames per second, or fps. In traditional hand drawn animation, this means you need 24 drawings per second of animation. This rate has been passed down from the film production process in the 1920's, as it was the least amount of frames a film should have to create the illusion of fluid motion. Hand drawn animation started with much less fps, but once it became a mainstream medium it adopted the same standard set by film production.
+Timing in animation is counted in **frames**, and most animations created for broadcast or film today utilize a rate of **24 frames per second, or fps**. In traditional hand drawn animation, this means you need 24 drawings per second of animation. This rate has been passed down from the film production process in the 1920's, as it was the least amount of frames a film should have to create the illusion of fluid motion. Hand drawn animation started with much less fps, but once it became a mainstream medium it adopted the same standard set by film production.
 
 Some animations created for TV, web or games can have different fps, like 30 or 60, because the process to create these animations is different from the traditional method. Because of this increased frame rate, they create a much smoother motion. As an example, imagine that to create a hand drawn animation at 60 instead of 24 fps, you would need to make 36 more drawings per second, so depending on how you create the animation, it can be a very time consuming process.
 
