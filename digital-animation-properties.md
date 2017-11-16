@@ -10,16 +10,27 @@ Some of these programs still try to replicate the hand-drawn, frame by frame exp
 
 2D animation is just one of the many capabilities of After Effects. For this reason the program can be a little bit overwhelming at first. Please watch [this introductory video](https://helpx.adobe.com/after-effects/how-to/aftereffects-workflow-terminology.html) to have a better sense of the software's interface and and general functionality before we can continue to our next exercises.
 
+###Asset creation
+
+Asset creation is the process of drawing your characters, props and environments. In traditional animation, different assets would be drawn in separate cels to be superimposed later. In digital animation, this process is done in drawing software such as Photoshop, Illustrator and even in After Effects itself. You can start with an illustration that contains a complete scene, with characters, environment and props, but having each of these parts in a separate file makes it much more manageable later on.
+
+Another very important part of the asset creation process is **separating each element in its own layer**. For example with a character, you'll need to have separate layers for the head, the torso, for different parts of each arm, for different parts of each leg, for each hand and each foot, and depending on the character, also for facial features that will be animated separately like the mouth and eyes. If this is not done properly you'll end up with a flat image that can't be animated.
+
+>img or video separate layers in photoshop and illustrator
 
 
->asset creation (hand drawn to computer asset creation)
-separate layers in photoshop and illustrator
+###Importing Assets in After Effects
 
->importing assets to after effects
-compositions, layers and keyframes
+When you finished preparing your assets in Photoshop or Illustrator, you can start importing them in After Effects. Always check if your layers were properly imported so you don't have any problems in the future.
+
+>video importing assets to after effects
+
+##Digital Animation Concepts
+
+compositions, layers
 
 
-### Digital Animation Properties
+### Animation Properties
 
 Every animatable element in After Effects has a few base properties that will define its animation. The most important properties are **position, scale, rotation and opacity**.
 
