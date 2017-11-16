@@ -12,10 +12,10 @@ Some of these programs still try to replicate the hand-drawn, frame by frame exp
 
 
 
-asset creation (hand drawn to computer asset creation)
+>asset creation (hand drawn to computer asset creation)
 separate layers in photoshop and illustrator
 
-importing assets to after effects
+>importing assets to after effects
 compositions, layers and keyframes
 
 
