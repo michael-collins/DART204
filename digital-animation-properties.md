@@ -22,3 +22,4 @@ These properties cover pretty much all of the animations we will create, and whe
 ### Keyframes
 
 In traditional animation, we generally think in terms of frames and how they are defined by importance (keyframes, extremes and inbetweens). These concepts are also important in digital animation, but there is a shift in the way you work and understand them. For example, once you create keyframes for an element in After Effects, the software will automatically fill in the gaps with inbetweens. Most of the time, it is not necessary to worry about extremes and inbetweens at all because a lot of the work is done on the keyframes themselves, through speed and easing options.
+
