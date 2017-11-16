@@ -42,6 +42,19 @@ These properties cover pretty much all of the animations we will create, and whe
 
 In traditional animation, we generally think in terms of frames and how they are defined by importance (keyframes, extremes and inbetweens). These concepts are also important in digital animation, but there is a shift in the way you work and understand them. For example, once you create keyframes for an element in After Effects, the software will automatically fill in the gaps with inbetweens. Most of the time, it is not necessary to worry about extremes and inbetweens at all because a lot of the work is done on the keyframes themselves, through speed and easing options.
 
+In After Effects, when you create a keyframe, that keyframe is automatically set as a **linear keyframe**.   
+
+This is what linear keyframes look like:
+
+![](/assets/unit2/linear_keys.jpg)
+
+When you have two linear keyframes like that, it means that the **timing and spacing** between those keyframes is constant and that animation doesn’t have any kind of easing.
+
+To apply easing to your keyframes all you have to do is select the keyframes, click with the right mouse button, then select **Keyframe Assistant > Easy Ease**. Your keyframes now will look like this:
+
+![](/assets/unit2/ease_keys.jpg)
+
+This will create an effect as if the inbetweens are grouped closer to the keyframes, creating smoother acceleration and deceleration. The great thing about easing keyframes in After Effects is that it can be applied to any animation property: position, scale, rotation and even opacity.
 
 >render and composition settings
 

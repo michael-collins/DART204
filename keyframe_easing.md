@@ -1,17 +1,9 @@
 #### Keyframe Easing and Graph Editor
 
 This animation principle is the easiest to apply in After Effects, since it requires only a few clicks to activate, and not a lot of work to customize and tweak.
-In After Effects, when you create a keyframe, that keyframe is automatically set as a **linear keyframe**, and it doesn’t contain any kind of easing.
 
-This is what linear keyframes look like:
-
-![](/assets/unit2/linear_keys.jpg)
-
-To change the transition of those keyframes from linear to ease, all you have to do is select the keyframes, click with the right mouse button, then select **Keyframe Assistant > Easy Ease**. Your keyframes now will look like this:
-
-![](/assets/unit2/ease_keys.jpg)
-
-The great thing about ease keyframes in After Effects is that they can be applied to any animation property, position, scale, rotation and even opacity. Let’s take a look at how our animation changes just by converting all of our keyframes to ease (slowed down for easier comparison):
+ 
+Let’s take a look at how our animation changes just by converting all of our keyframes to ease (slowed down for easier comparison):
 
 ![](/assets/unit2/burger_logo_comparison_ease.gif)
 
