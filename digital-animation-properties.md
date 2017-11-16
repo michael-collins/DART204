@@ -27,12 +27,18 @@ When you finished preparing your assets in Photoshop or Illustrator, you can sta
 
 ##Digital Animation Concepts
 
+###Compositions
+
+Compositions are groups of elements inside of After Effects. An entire scene can be a composition, or even an entire animation. It all depends on the complexity of the animation and the number of elements that needs to be animated.
+
+The first thing you do when starting a new project in After Effects is create a new composition. 
+
 compositions, layers
 
 
 ### Animation Properties
 
-Every animatable element in After Effects has a few base properties that will define its animation. The most important properties are **position, scale, rotation and opacity**.
+Every element in After Effects has a few base properties that will define its animation. The most important properties are **position, scale, rotation and opacity**.
 
 Here is a quick example of these properties in After Effects:
 
