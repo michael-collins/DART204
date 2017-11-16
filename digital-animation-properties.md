@@ -29,11 +29,13 @@ When you finished preparing your assets in Photoshop or Illustrator, you can sta
 
 ###Compositions
 
-Compositions are groups of elements inside of After Effects. An entire scene can be a composition, or even an entire animation. It all depends on the complexity of the animation and the number of elements that needs to be animated.
+Compositions (or comps) are containers of elements inside of After Effects. Comps have their own independent timelines and layer hierarchy. Based on the complexity of your animation you can have one comp, or hundreds of them. It all depends on the number of elements that needs to be animated.
 
-The first thing you do when starting a new project in After Effects is create a new composition. 
+The first thing you do when starting a new project in After Effects is create a new composition, and assets from Photoshop and Illustrator are imported in After Effects as compositions, giving you access to their separate layers and timelines.
 
-compositions, layers
+###Layers
+
+Much like in Photoshop and Illustrator, layers in After Effects are used to define an element in a scene, and if that element will be in front or behind another element. Each layer can be animated separately and has its own set of animation properties.
 
 
 ### Animation Properties
