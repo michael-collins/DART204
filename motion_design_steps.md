@@ -1,13 +1,3 @@
-#### From traditional to digital
-
-So far we've been looking at how animation was done traditionally, with hand-drawn illustrations done frame by frame, and the principles that guide this process to create the illusion of movement.
-
-In this lesson we will see the difference between traditional animation and digital animation, and how the same principles apply to your work, independently if it is done by hand, or in a computer.
-
-When working with digital animation, there are many programs you can choose from. In this course we will use Adobe After Effects.
-
-
-
 ### Digital Animation Pipeline
 
 When working with motion design the animator generally follows a few simple steps, and depending on the type of animation, some of these will have more importance than others. The steps to create motion design are as follows:
