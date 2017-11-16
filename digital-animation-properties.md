@@ -27,9 +27,9 @@ When you finished preparing your assets in Photoshop or Illustrator, you can sta
 
 ### Composition Settings
 
-### Animating in After Effects
+### Animation in After Effects
 
-### Render Settings
+### Exporting your animation
 
 >render and composition settings
 
