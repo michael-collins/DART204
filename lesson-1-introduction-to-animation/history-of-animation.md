@@ -1,4 +1,4 @@
-## Lesson 1: Introduction
+##History of Animation
 
 Animation can be generally defined as the act of creating an illusion of movement through the use of still images played in a sequence. In this lesson you will learn about the history of animation, exploring the evolution of early animation devices into modern animation techniques. 
 
