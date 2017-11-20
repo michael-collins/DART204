@@ -36,6 +36,8 @@ The easiest way to ensure your settings are correct is to use the preset 'HDTV 1
 
 ### Animation in After Effects
 
+Animating in After Effects is a very simple process once you get used to the interface and tools at your disposal.
+
 
 
 ### Exporting your animation
