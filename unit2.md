@@ -1,6 +1,6 @@
 # ART 204 - Unit 2
 
-## Digital Animation and Motion Design
+## Digital Animation
 
 ### Overview
 
