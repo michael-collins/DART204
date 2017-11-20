@@ -4,6 +4,8 @@
 
 Compositions (or comps) are containers of elements inside of After Effects. Comps have their own independent timelines and layer hierarchy. Based on the complexity of your animation you can have one comp, or hundreds of them. It all depends on the number of elements that needs to be animated.
 
+Comps can have many different roles in you project. Since comps can be **nested**, they are essential to organize your animation and create a **hierarchy** inside After Effects. As an example, you can have an animated bouncing ball element in one comp, and a background environment animation in another. You can group and edit these two animations inside a third comp, that in this case will be a scene. If you have multiple scenes, you can then group and edit them all together in a bigger comp, which could contain your entire animation.
+
 The first thing you do when starting a new project in After Effects is create a new composition, and assets from Photoshop and Illustrator are imported in After Effects as compositions, giving you access to their separate layers and timelines.
 
 ###Layers
