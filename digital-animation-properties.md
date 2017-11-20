@@ -6,7 +6,7 @@ Asset creation is the process of drawing your characters, props and environments
 
 Another very important part of the asset creation process is **separating each element in its own layer**. For example with a character, you'll need to have separate layers for the head, the torso, for different parts of each arm, for different parts of each leg, for each hand and each foot, and depending on the character, also for facial features that will be animated separately like the mouth and eyes. If this is not done properly you'll end up with a flat image that can't be animated at all.
 
->img or video separate layers in photoshop and illustrator
+>video separate layers in illustrator
 
 
 ###Importing Assets in After Effects
