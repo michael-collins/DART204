@@ -54,3 +54,5 @@ To apply easing to your keyframes all you have to do is select the keyframes, cl
 This will create an effect as if the inbetweens are grouped closer to the keyframes, creating smoother acceleration and deceleration. The great thing about easing keyframes in After Effects is that it can be applied to any animation property: position, scale, rotation and even opacity.
 
 ### Rendering
+
+Rendering is the process of finalizing and exporting your animation as a video file that can be viewed outside of After Effects. It involves taking all of the layers, compositions and effects you have in a project and flattening everything into individual frames. Depending on the number of layers, compositions and effects a project has, rendering an animation can take just a few seconds, or a very (very) long time, so don't wait until the last day on your deadline to start rendering an animation.
