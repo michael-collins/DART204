@@ -1,5 +1,15 @@
 ##Digital Animation Concepts
 
+### From traditional to digital
+
+So far we've been looking at how animation was done traditionally, with hand-drawn illustrations done frame by frame, and the principles that guide this process to create the illusion of movement.
+
+While some people may see traditional and digital animation as two different kinds of animation, the truth is that one is simply an evolution of the other. Both are based on the exact same principles, but digital animation uses computer programs to simplify some of its processes.
+
+Some of these programs still try to replicate the hand-drawn, frame by frame experience, but most modern animation programs use a different approach that greatly speeds-up the animation process. One of these programs is Adobe After Effects, and this is what we will be using in this course.
+
+2D animation is just one of the many capabilities of After Effects. For this reason the program can be a little bit overwhelming at first. Please watch [this introductory video](https://helpx.adobe.com/after-effects/how-to/aftereffects-workflow-terminology.html) to have a better sense of the software's interface and and general functionality before we can continue to our next exercises.
+
 ###Compositions
 
 Compositions (or comps) are containers of elements inside of After Effects. Comps have their own independent timelines and layer hierarchy. Based on the complexity of your animation you can have one comp, or hundreds of them. It all depends on the number of elements that needs to be animated.

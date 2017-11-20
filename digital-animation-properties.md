@@ -1,15 +1,5 @@
 ##Digital Animation Process
 
-### From traditional to digital
-
-So far we've been looking at how animation was done traditionally, with hand-drawn illustrations done frame by frame, and the principles that guide this process to create the illusion of movement.
-
-While some people may see traditional and digital animation as two different kinds of animation, the truth is that one is simply an evolution of the other. Both are based on the exact same principles, but digital animation uses computer programs to simplify some of its processes.
-
-Some of these programs still try to replicate the hand-drawn, frame by frame experience, but most modern animation programs use a different approach that greatly speeds-up the animation process. One of these programs is Adobe After Effects, and this is what we will be using in this course.
-
-2D animation is just one of the many capabilities of After Effects. For this reason the program can be a little bit overwhelming at first. Please watch [this introductory video](https://helpx.adobe.com/after-effects/how-to/aftereffects-workflow-terminology.html) to have a better sense of the software's interface and and general functionality before we can continue to our next exercises.
-
 ###Asset creation
 
 Asset creation is the process of drawing your characters, props and environments. In traditional animation, different assets would be drawn in separate cels to be superimposed later. In digital animation, this process is generally done in illustration software such as Photoshop, Illustrator and even After Effects itself. You can start with an illustration that contains a complete scene, with characters, environment and props, but having each of these parts as a separate element makes it much more manageable later on.
