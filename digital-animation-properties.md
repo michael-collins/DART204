@@ -34,11 +34,13 @@ The easiest way to ensure your settings are correct is to use the preset 'HDTV 1
 >video comp settings
 
 
-### Animation in After Effects
+### Animation Workflow
 
 Animating in After Effects is a very simple process once you get used to the interface and tools at your disposal.
 
+Here is a quick step by step animation in After Effects:
 
+>video
 
 ### Exporting your animation
 
