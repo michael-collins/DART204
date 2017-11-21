@@ -23,3 +23,29 @@ http://www.traditionalanimation.com/wp-content/gallery/winnie-the-pooh/poohmodel
  http://www.traditionalanimation.com/wp-content/gallery/powerpuff-girls/powerpuffmodelsheet14.jpg
 
 The character sheet is particularly important in animation processes involving larger teams. It serves as a guide that multiple artists and animators can follow to assure the character is consistently portrayed in the various scenes of an animation.
+
+###Character Design Process
+
+The design of a character always starts from basic shapes (circles, rectangles, triangles) that will serve as the foundation for more complex forms. Think about your character. If you simplify it to the extreme, which simple shape or shapes are you left with? This quick exercise will help you to identify the foundational elements of your character, which will serve as the basis so you can consistently reproduce it in various situations and from several angles.
+
+After you have your basic foundation, you can move on to a more complex form. Use the initial simple shape(s) to draw your character’s outline. What other elements can you add to your character to portray its personality and tell your story? Play with different shapes, sizes, props. Try different colors. Draw as many iterations of your character as you can. Nobody, not even the most experienced artists, create a character in just one try. 
+
+Once you are satisfied with your initial character design, try drawing it from different angles. What do you see when your character turns around? You will certainly find out spots you didn’t even think about before and that must be further developed. This is your first character sheet and it shouldn’t be polished. During the design process, an artist will produce several ‘rough’ character sheets to create quick sketches and try out different character attributes. 
+
+When you are happy with the overall look of your character, create a final sheet with a polished version of it. Be as detailed as possible and explain how you envision your character behaving and moving. This details will be crucial when you start the animation process.
+
+
+Follow this link for a collection of character sheets from major studios, including Disney, Warner Brothers, and Hanna-Barbera: http://www.traditionalanimation.com/animation-library/model-sheets/
+
+
+**Additional Resources:**
+
+Drawing Fundamentals: Construction. Tips to start drawing a character
+https://www.youtube.com/watch?v=4KfmA6cEpU0
+
+How to Draw a Character Turnaround. A step-by-step guide on how to create a character ‘turnaround’ using Adobe Photoshop.
+https://www.youtube.com/watch?v=G4rAS_WJWFo
+
+Character Design for Animation - Model Sheet. How to create a character ‘turnaround’ with overlays and freehand digital drawing.
+https://www.youtube.com/watch?v=SCIS92ontFs
+

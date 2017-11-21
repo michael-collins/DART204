@@ -10,8 +10,6 @@ Designing a great character takes a lot of time. It involves trying out differen
 
 _Pixar character design for Russell, from the movie UP_
 
-###Tips for designing a great character
-
 Here is a list of tips inspired by Pixar’s approach to character design, which can help you to develop a successful character:
 
 1. Find characters you like and try to answer these questions: 
