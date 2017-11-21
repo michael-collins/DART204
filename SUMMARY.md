@@ -32,7 +32,7 @@
     * [Digital Animation Process](digital-animation-properties.md)
     * [Exercise 4](exercise-4.md)
   * [Lesson 5 - Graph Editor, Audio and Timing](lesson4_grapheditor_audio_timing.md)
-    * [Keyframe Easing and Graph Editor](keyframe_easing.md)
+    * [Graph Editor](keyframe_easing.md)
     * [Audio and Timing](audiotiming.md)
     * [Exercise 5](exercise-5.md)
   * [Project 2](project-2.md)

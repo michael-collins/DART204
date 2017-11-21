@@ -18,10 +18,13 @@ Comps can have many different roles in you project. Since comps can be **nested*
 
 The first thing you do when starting a new project in After Effects is create a new composition, and assets from Photoshop and Illustrator are imported in After Effects as compositions, giving you access to their separate layers and timelines.
 
+>img comps
 
 ###Layers
 
 Much like in Photoshop and Illustrator, layers in After Effects are used to define an element in a scene, and if that element will be in front or behind another element. Each layer can be animated separately and has its own set of animation properties.
+
+>img layers
 
 
 ### Animation Properties

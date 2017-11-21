@@ -1,4 +1,4 @@
-#### Keyframe Easing and Graph Editor
+####Graph Editor
 
 This animation principle is the easiest to apply in After Effects, since it requires only a few clicks to activate, and not a lot of work to customize and tweak.
 
