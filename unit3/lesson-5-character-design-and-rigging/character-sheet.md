@@ -9,16 +9,17 @@ http://www.traditionalanimation.com/wp-content/gallery/winnie-the-pooh/poohmodel
 
 1. Present the inspiration for a character, describing where its shape(s) comes from. 
 
- For example, see the design for Heffer from Rocko’s Modern Life at http://www.traditionalanimation.com/wp-content/gallery/rockos-modern-life/HefferWolfe.gif
+ Heffer from Rocko’s Modern Life
+ http://www.traditionalanimation.com/wp-content/gallery/rockos-modern-life/HefferWolfe.gif
 
 2. Show how a character relates to other characters in the animation in relation to size, shape, personality, etc.
 	
- For example, see Powerpuff Girls’ size comparison character sheet at
-http://www.traditionalanimation.com/wp-content/gallery/powerpuff-girls/powerpuffmodelsheet1.jpg
+ Powerpuff Girls’ size comparison character sheet
+ http://www.traditionalanimation.com/wp-content/gallery/powerpuff-girls/powerpuffmodelsheet1.jpg
 
 3. Depict particular elements from a character that will inform the animation, describing how different parts of its body should behave and move, thus serving as a valuable reference during the animation process. 
 
- For example see the Powerpuff Girls’ DOs and DON’Ts character sheet at
-http://www.traditionalanimation.com/wp-content/gallery/powerpuff-girls/powerpuffmodelsheet14.jpg
+ Powerpuff Girls’ DOs and DON’Ts character sheet
+ http://www.traditionalanimation.com/wp-content/gallery/powerpuff-girls/powerpuffmodelsheet14.jpg
 
 The character sheet is particularly important in animation processes involving larger teams. It serves as a guide that multiple artists and animators can follow to assure the character is consistently portrayed in the various scenes of an animation.
