@@ -5,7 +5,7 @@ The design and animation of a character invariably relies on the production of a
 For an example of a traditional character sheet see: 
 http://www.traditionalanimation.com/wp-content/gallery/winnie-the-pooh/poohmodelsheet1.jpg
 
-Character sheets can also:
+**Character sheets can also:**
 
 1. Present the inspiration for a character, describing where its shape(s) comes from. 
 
