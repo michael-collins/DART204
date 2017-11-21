@@ -33,7 +33,7 @@ Animating in After Effects is a very simple process once you get used to the int
 
 Here is a quick step by step animation in After Effects:
 
->video
+>video animation workflow and comp hierarchy
 
 ### Exporting your animation
 
