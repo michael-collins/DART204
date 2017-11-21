@@ -1,6 +1,6 @@
 ##Character Sheet
 
-The design and animation of a character invariably relies on the production of a character sheet. A character sheet, also known as a model sheet, is a page traditionally created to portray a character’s ‘turnaround’, depicting it from different views (usually front, back, side, and ¾ angle). The sheet is also usually used to portray the character in different poses. A character sheet can contain the character’s entire body or focus on a single session, such as its head/face, and it is a useful tool for the design of a character by allowing it to be explored from different angles.
+The design and animation of a character invariably relies on the production of a character sheet. A character sheet, also known as a model sheet, is a page traditionally created to portray a character’s ‘turnaround’, depicting it from different views (usually front, back, side, and ¾ angle). The sheet is also usually used to show the character in different poses. It can contain the character’s entire body or focus on a single section, such as its head/face. The character sheet is a very useful tool for character design, and later during production, serving as a guide to keep the character consistent.
 
 For an example of a traditional character sheet see: 
 http://www.traditionalanimation.com/wp-content/gallery/winnie-the-pooh/poohmodelsheet1.jpg
