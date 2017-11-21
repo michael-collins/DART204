@@ -52,6 +52,11 @@ Bitrate Encoding: VBR 1 pass
 Target Bitrate: 5 Mbps
 Max Bitrate: 6 Mbps
 
->video render settings
+
+
+>video render settings **DONE**
+
+
+
 
 
