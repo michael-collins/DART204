@@ -39,9 +39,12 @@ Try to create a sense of weight by using the principles of timing and spacing, a
 8. Take pictures or scan each drawing, making sure that they are aligned. If you are using a camera or cellphone, it is a good idea to use a tripod.
 
 9. Bring the images to After Effects and adjust the sequence as a loop by following the steps in this video:
->video
+
+>video **DONE**
 
 10. Render your animation as an .mp4 video
+
+>video **DONE**
 
 11. Upload it to your frame.io page using this naming convention:
 
