@@ -38,18 +38,21 @@ While creating this animation, always refer back to the principles of timing and
 
 8. Now that you have your keyframes it is time find and draw your extremes. Take keyframes 0 and 7 and place a sheet of paper between them. Place them on top of the reference and secure them on the binder or with tape, always trying to keep them aligned. Once you finished drawing the frame, number it accordingly.
 
-8. Now that you have your keyframes and extremes it is time to draw your inbetweens. Go from keyframe to extreme, then extreme to the next keyframe and so on. Flip through your pages constantly to check if the movement looks right.
+9. Now that you have your keyframes and extremes it is time to draw your inbetweens. Go from keyframe to extreme, then extreme to the next keyframe and so on. Flip through your pages constantly to check if the movement looks right.
 
-8. When you finish all your frames, take pictures or scan each drawing, making sure that they are aligned. If you are using a camera or cellphone, it is a good idea to use a tripod.
+10. When you finish all your frames, take pictures or scan each drawing, making sure that they are aligned. If you are using a camera or cellphone, it is a good idea to use a tripod.
 
-9. Bring the images to After Effects and adjust the sequence as a loop by following the steps in this video:
->video
+11. Bring the images to After Effects by following the steps in this video:
 
-10. Render your animation as an .mp4 video
+ >video **DONE**
 
-11. Upload it to your frame.io page using this naming convention:
+11. Render your animation as an .mp4 video
+
+ >video **DONE**
+
+12. Upload it to your frame.io page using this naming convention:
 art204_exercise3-1_lastname_firstname.mp4
 
-12. Post the link to your video on the exercise page
+13. Post the link to your video on the exercise page
 
 ###Grading
