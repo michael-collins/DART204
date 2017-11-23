@@ -1,15 +1,13 @@
 ###Lesson 3 - Animation Principles 2
 
-In the previous lesson you have learned the first 6 animation principles and have applied them on the animation of a bouncing ball. In this lesson we will continue to focus on basic animation principles and will examine the remaining six:
+In the previous lesson you have learned the first 6 animation principles and have applied them on the animation of a bouncing ball. In this lesson we will continue to focus on basic animation principles and will examine the remaining 6:
+ 
+- Anticipation
+- Follow through and Overlapping action
+- Staging
+- Secondary Action
+- Solid Drawing
+- Appeal
 
-7. Anticipation
+At the end of this lesson you will use these 6 principles to refine the animation you have developed for Lesson 2 and you will expand upon your short story (created in Exercise 2.2), presenting it in the form of a comic strip.
 
-8. Follow through and Overlapping action
-
-9. Staging
-
-10. Secondary Action
-
-11. Solid Drawing
-
-12. Appeal
