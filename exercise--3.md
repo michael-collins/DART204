@@ -7,7 +7,7 @@ For this exercise we will be using pencil and paper to create a bouncing ball an
 
 While creating this animation, always refer back to the principles of timing and spacing, ease in and ease out and arcs.
 
-> example video
+> example video loop **DONE**
 
 ###Materials
 
