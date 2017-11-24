@@ -32,3 +32,5 @@ Here is a step by step of the setup process:
 
 > IK character setup video
 
+###Walk Cycle
+
