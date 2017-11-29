@@ -13,25 +13,27 @@ There are a number of color grading tools in After Effects, and the most commonl
 ####Brightness and Contrast
 This one is very self explanatory. It controls the brightness and the contrast of a scene.
 
->img **DONE**
+![](/assets/cc_brightcontrast.png)
 
 ####Levels
 The levels tool is a more nuanced way of controlling the brightness and contrast of a scene. It has separate control for the white and black portions of an image.
 
->img **DONE**
+![](/assets/cc_levels.png)
 
 ####Hue and Saturation
 In it's simplest use, this tool can be a way to introduce more color to your scene, or de-saturate it entirely by adjusting the "saturation" slider. In more advanced cases, it can be used to completely replace colors in a scene.
 
->img **DONE**
+![](/assets/cc_huesat.png)
 
 ####Curves
 The standard in color grading tools. As powerful as it is confusing for a beginner. The curves tool can control brightness, contrast, saturation, as well as red, green and blue levels separately, all in one neat interface. Once you understand how the curves work, you can change the mood of an entire scene using just this tool.
 
->img **DONE**
+![](/assets/cc_curves.png)
 
 ####Lumetri Color
 The latest addition to the color grading tools in After Effects is also the most versatile. It combines all of the functionality of the previously mentioned tools in just one interface. For this reason, it can be overwhelming or confusing at first, but since it is so powerful, this is the recommended tool to work with color correction in After Effects.
+
+![](/assets/cc_lumetri.png)
 
 Here is a video on how to do color grading in After Effects:
 >video
