@@ -20,11 +20,11 @@ Each composition in After Effects has its own settings, so make sure to check if
 
 To change your composition settings, select 'Composition>Composition Settings' from the top menu.
 
->img comp settings01 **DONE**
+![](/assets/comp_settings01.png)
 
 The easiest way to ensure your settings are correct is to use the preset 'HDTV 1080 24'. This will set your resolution to HD and your frame rate to 24 frames per second.
 
->img comp settings02 **DONE**
+![](/assets/comp_settings02.png)
 
 
 ### Animation Workflow

@@ -18,12 +18,11 @@ Comps can have many different roles in you project. Since comps can be **nested*
 
 The first thing you do when starting a new project in After Effects is create a new composition, and assets from Photoshop and Illustrator are imported in After Effects as compositions, giving you access to their separate layers and timelines.
 
-
 ###Layers
 
 Much like in Photoshop and Illustrator, layers in After Effects are used to define an element in a scene, and if that element will be in front or behind another element. Each layer can be animated separately and has its own set of animation properties.
 
->img layers
+![>img layers](/assets/layers.png)
 
 
 ### Animation Properties
@@ -41,11 +40,13 @@ Here is a quick example of these properties in After Effects:
 
 These properties cover pretty much all of the animations we will create, and when coupled with masks, they consist of the core of digital animation and motion design.
 
-> video loop how to access properties in after effects **DONE**
+_How to access animation properties in After Effects:_
+https://drive.google.com/open?id=1VoHUsqFKbggAP4p7NS8uy6Mb9qfjSxNf
 
 A **mask** is not an animation property, but masks are very important and are used extensively in digital animation. They are a little bit different because they need two elements to work: the animation element (in the example above, the square) and the mask itself (the rectangle that animates over the square).
 
->video how to use masks **DONE**
+_How to use masks in After Effects:_
+https://drive.google.com/open?id=1cCvOG6OQVuorO-W6-NbUImJNLEBp0IMQ
 
 ### Keyframes
 
