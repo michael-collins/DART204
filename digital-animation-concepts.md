@@ -22,7 +22,7 @@ The first thing you do when starting a new project in After Effects is create a 
 
 Much like in Photoshop and Illustrator, layers in After Effects are used to define an element in a scene, and if that element will be in front or behind another element. Each layer can be animated separately and has its own set of animation properties.
 
-![>img layers](/assets/layers.png)
+![](/assets/layers.png)
 
 
 ### Animation Properties
