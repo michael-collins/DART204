@@ -16,4 +16,4 @@ Here is a quick overview of the graph editor in After Effects:
 
 Now that you know how to ease in and out your keyframes and use the graph editor, you’re ready to customize your animations even further. Other animation principles like Squash and Stretch, Follow through and Overlapping action can also be applied to make this animation more compelling. For more details on those principles, refer back to Lessons 2 and 3.
 
->video final ultra burger DONE
+>video loop final ultra burger **DONE**
