@@ -10,18 +10,30 @@ How we position our camera and how we stage a scene in animation is very importa
 
 Parallax occurs when you have background elements further away from the camera, and foreground elements closer to the camera. When the camera moves, the elements that are further away move slower than elements that are up close, giving a 2D scene a sense of depth. The largest the distance between these elements, the more pronounced the effect is. The easiest way to apply parallax to a scene is to separate your elements in layers, and then animate them at different speeds.
 
->video parallax
->video no parallax
->video layers
+https://drive.google.com/open?id=1cst6p2yyU5fDxc8eSWm8EfadonQ59hbZ
+_animation elements separated in layers_
+
+https://drive.google.com/open?id=1DwhPsLhKDosww4ba-b8_eHB6tgPDW9F6
+_animation without parallax_
+
+https://drive.google.com/open?id=1kdEkQaxNNaoyYU4t1n8slxtxiegipIGN
+_animation with parallax_
 
 
 ####Depth of Field
 
 Depth of field relates to the distance of an element in relation to the camera, and what element the camera is focusing on. When an element is in focus, it appears sharp, while other elements in different distances from the camera will appear blurred, or out of focus. This effects happens naturally when using a camera in real life, but in 2D animation the effects needs to be carefully planned and applied. When used well, it can add a great sense of depth to the scene. Since our eyes tend to give preference to focused images, it is also very effective to direct the viewer's gaze to important elements in the scene.
 
->video no dof
->video dof far focus
->video dof near focus
+
+https://drive.google.com/open?id=1kdEkQaxNNaoyYU4t1n8slxtxiegipIGN
+_animation without depth of field_
+
+https://drive.google.com/open?id=13nweFOhLqi6A2dzN4q9GiHK0AI_K6JWO
+_animation with far focus_
+
+https://drive.google.com/open?id=1sUOfTpaunlA_ulyaFS3FYAg6SD1NE_pS
+_animation with near focus_
+
 
 ####Vignette
 
