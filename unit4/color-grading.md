@@ -36,6 +36,6 @@ The latest addition to the color grading tools in After Effects is also the most
 ![](/assets/cc_lumetri.png)
 
 Here is an example of color grading workflow in After Effects:
->video
+https://drive.google.com/open?id=1bMSuo9HIixNQvG9naoEj8Lm6BATxasKy
 
 The main thing to keep in mind when color grading is the **mood** of a scene, and how that mood transitions from one scene to the next. For example, high contrast and green/purple tones can lend a sense of mystery and tension. Desaturated and blue tones can have a sad or serious connotation. If it is a happy scene, maybe it needs more color.
