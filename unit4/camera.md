@@ -22,7 +22,7 @@ _animation with parallax_
 
 ####Depth of Field
 
-Depth of field relates to the distance of an element in relation to the camera, and what element the camera is focusing on. When an element is in focus, it appears sharp, while other elements in different distances from the camera will appear blurred, or out of focus. This effects happens naturally when using a camera in real life, but in 2D animation the effects needs to be carefully planned and applied. When used well, it can add a great sense of depth to the scene. Since our eyes tend to give preference to focused images, it is also very effective to direct the viewer's gaze to important elements in the scene. The simplest way to simulate depth of field in a 2D animation is by applying the **Fast Blur** effect to different layers in After Effects.
+Depth of field relates to the distance of an element in relation to the camera, and what element the camera is focusing on. When an element is in focus, it appears sharp, while other elements in different distances from the camera will appear blurred, or out of focus. This effects happens naturally when using a camera in real life, but in 2D animation the effects needs to be carefully planned and applied. When used well, it can add a great sense of depth to the scene. Since our eyes tend to give preference to focused images, it is also very effective to direct the viewer's gaze to important elements in the scene. The simplest way to simulate depth of field in a 2D animation is by applying the **Gaussian Blur** effect to different layers in After Effects.
 
 > video fast blur dof
 
