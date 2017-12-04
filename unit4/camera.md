@@ -54,4 +54,5 @@ _an example of the same scene with (left) and without (right) vignette_
 ![](/assets/vignette_offcenter.png)
 _vignette being used off-center to direct the viewer's attention_
 
->video vignette
+This video is a step-by-step on how to create a vignette effect:
+https://drive.google.com/open?id=1xVnezF6-OIqkOCnJDhTtSRO1axHJmnSQ
