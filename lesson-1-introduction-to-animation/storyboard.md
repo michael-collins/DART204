@@ -106,7 +106,7 @@ The storyboard is and incredibly useful tool, and it contains a lot of informati
 - character and prop movement
 
     You can pose and give the idea of movement to characters and and other elements by using arrows close to or around them. Here is a great example by Alex DeLeon:
-![](http://www.stayup.com/motorcycleStoryboard.jpg)
+http://www.stayup.com/motorcycleStoryboard.jpg
 
 - scene by scene description
 
