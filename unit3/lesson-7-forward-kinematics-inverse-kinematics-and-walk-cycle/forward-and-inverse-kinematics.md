@@ -34,3 +34,7 @@ Here is a step by step of the setup process:
 
 ###Walk Cycle
 
+Walking is the most basic form of locomotion, and it is a naturally cyclic process. For this reason, one of the most important elements of a character's movement is what animators simply call a "walk cycle". The walk cycle is a looping animation of a character walking in place, and it not only serves to move the character around the scene, but it can also help define character traits and moods.
+
+A character might walk with confidence or run in fear, or it may drag its feet from tiredness or sadness. A walk cycle might show excitement or wearyness, it may be purposeful or relaxed. Because of all the nuance a walk cycle can depict, it may seem like one of the hardest elements of character animation. To simplify it, we can break a walk cycle in a few simple poses.
+
