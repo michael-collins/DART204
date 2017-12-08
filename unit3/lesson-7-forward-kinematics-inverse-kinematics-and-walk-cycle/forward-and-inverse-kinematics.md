@@ -44,11 +44,7 @@ https://www.youtube.com/watch?v=HEoUhlesN9E
 
 Because of all the nuance a walk cycle can depict, it may seem like one of the hardest aspects of the character animation process. To simplify it, we can start by breaking down a walk cycle into a few simple poses:
 
-Contact
+![](/assets/walkcycle_poses.png)
 
-Recoil
-
-Passing
-
-High-point
+These poses define the extremes of your walk cycle animation. The two most important poses are contact and passing since they dictate the step legth and duration of the cycle. Recoil comes right after contact and it is the pose where the character is at its lowest point, while high point happens right after the passing pose, and it is where the character is at its highest point.
 
