@@ -26,9 +26,7 @@ From this simple comparison we can already see that the character on the right w
 
 The downside of using IK is that it can be difficult to pose your character exactly as you want, since you lose control of each individual joint.
 
-To setup a character using IK, we will use a plugin called DUIK. This plugin is free, and it is one of the best animation plugins available for After effects. You can download the plugin from this link: https://rainboxprod.coop/en/tools/duik/duik-download/
-
-Here is a step by step of the setup process:
+Here is a step by step of the IK setup process:
 
 > IK character setup video
 
