@@ -50,4 +50,8 @@ These poses define the extremes of your walk cycle animation. The two most impor
 
 In After Effects, these are the only four poses you'll need to make a character walk, since the inbetweens will be created for you. Obviously, if you stop with these poses, your walk will probably look very generic, so make sure to refine the inbetweens and the little details to create a walk cycle with more personality.
 
+Here is a quick overview of the process of creating a walk cycle in After Effects:
+
+>video
+
 
