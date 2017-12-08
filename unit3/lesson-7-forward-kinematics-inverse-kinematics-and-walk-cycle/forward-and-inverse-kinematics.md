@@ -44,5 +44,11 @@ https://www.youtube.com/watch?v=HEoUhlesN9E
 
 Because of all the nuance a walk cycle can depict, it may seem like one of the hardest aspects of the character animation process. To simplify it, we can start by breaking down a walk cycle into a few simple poses:
 
+Contact
 
+Recoil
+
+Passing
+
+High-point
 
