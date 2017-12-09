@@ -40,11 +40,11 @@ Try to create a sense of weight by using the principles of timing and spacing, a
 
 9. Bring the images to After Effects and adjust the sequence as a loop by following the steps in this video:
 
-https://drive.google.com/open?id=1gLpEux_N0bPCiwlUuSMIF0Eit01Wcp2z
+ https://drive.google.com/open?id=1gLpEux_N0bPCiwlUuSMIF0Eit01Wcp2z
 
 10. Render your animation as an .mp4 video
 
-https://drive.google.com/open?id=1QwEPYIKSqfpRsJegs3lSV0hBFM9ToEDf
+ https://drive.google.com/open?id=1QwEPYIKSqfpRsJegs3lSV0hBFM9ToEDf
 
 11. Upload it to your frame.io page using this naming convention:
 
