@@ -33,7 +33,7 @@ The easiest way to ensure your settings are correct is to use the preset 'HDTV 1
 
 Animating in After Effects is a very simple process once you get used to the interface and tools at your disposal.
 
-Here is a series of videos showing the animation process in After Effects:
+Here is a series of videos showing the animation process in After Effects (you will need your Lynda account to watch these videos):
 
 https://www.lynda.com/After-Effects-tutorials/Editing-interactively-Composition-panel/78544/79270-4.html
 
