@@ -45,6 +45,7 @@
   * [Lesson 7 - Character Animation](unit3/lesson-7-forward-kinematics-inverse-kinematics-and-walk-cycle.md)
     * [Forward and Inverse Kinematics](unit3/lesson-7-forward-kinematics-inverse-kinematics-and-walk-cycle/forward-and-inverse-kinematics.md)
     * [Character Rigging](unit3/lesson-7-forward-kinematics-inverse-kinematics-and-walk-cycle/character-rigging.md)
+    * [Walk Cycle](unit3/lesson-7-forward-kinematics-inverse-kinematics-and-walk-cycle/walk-cycle.md)
     * [Exercise 7](unit3/lesson-7-forward-kinematics-inverse-kinematics-and-walk-cycle/exercise-7.md)
   * [Project 3](unit3/project-3.md)
 * [Unit 4](unit4.md)
