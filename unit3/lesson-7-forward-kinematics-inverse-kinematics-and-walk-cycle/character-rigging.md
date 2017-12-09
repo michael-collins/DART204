@@ -20,9 +20,9 @@ Once that is done, whenever you rotate or move the **parent layer**, the **child
 
 To create an **Inverse Kinematics** rig we will create controllers for each part of our character that will be animated. To simplify this process, we will use a free plugin called DUIK.
 
-Here is a step by step of the IK setup process with DUIK:
+Here is a step by step of the IK setup process with DUIK (you will need to use your Lynda account to watch this video):
 
-> IK character setup video
+https://www.lynda.com/DUIK-tutorials/Introduction-IK-rigging/492721/543495-4.html?autoplay=true
 
 
 
