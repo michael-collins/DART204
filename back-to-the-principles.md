@@ -2,9 +2,9 @@
  
 Creating a compelling digital animation requires much more than simply adding transitions (appear, disappear, move up/down) to assets in After Effects. It relies on the development of interesting assets and on adding appeal as each component is introduced in the screen to tell a story, no matter how simple that story may be. It requires attention to detail!
  
-Let’s start by looking at the following example: a simple but compelling title sequence for an animation called ‘Ultra Burger’.
+Let’s start by looking at the following example: a simple title sequence for an animation called ‘Ultra Burger’.
  
-As seen in Lesson 4, first we need to create our asset, separate them in layers and import them into After Effects. We can then start animating each element. Here we animated the Position of the different elements of the burger (bread, patty, cheese), the Rotation and Scale of the right-hand shimmer, and used a Mask for the title:
+As seen in Lesson 4, first we need to create our asset, separate it in layers and import them into After Effects. We can then start animating each element. Here we animated the Position of the different elements of the burger (bread, patty, cheese), the Rotation and Scale of the right-hand shimmer, and used a Mask for the title:
  
 >img
  
