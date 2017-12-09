@@ -1,10 +1,12 @@
+###Rigging modes
+
+When we design a character to be animated in After Effects, we need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
+
+Rigging is the process of preparing a character to be animated, and it's like creating a character's bone structure. In this lesson we will study two different rigging methods, Forward Kinematics and Inverse Kinematics, each with its advantages and disadvantages.
+
+Both methods consist of parenting, or linking parts of a character to create a hierarchy. For example, we can parent the hand to the forearm, so when we move the forearm, the hand will follow. If we do that again between the forearm and the arm, we will create a hierarchy. This process makes animating a character much more efficient and intuitive.
+
 #### Forward Kinematics (FK)
-
-To parent one object to another in After Effects, all you need to do is click the pick whip icon and drag from the **child** layer, to the **parent** layer. The dropdown next to the pick whip will then show the name of the parent layer:
-
-![](/assets/unit3/parent_layers.gif)
-
-Once that is done, whenever you rotate or move the **parent layer**, the **child layer** will follow. That is what animators call **Forward Kinematics**
 
 In Forward Kinematics, the **parent object** influences the **child object** in a hierarchical order. For example, the movement of the arm influences the movement of the forearm, which in turn influences the movement of the hand, as you can see in the animation below.
 
@@ -25,10 +27,6 @@ This makes it much quicker to pose a character, especially if you are creating a
 From this simple comparison we can already see that the character on the right will be much easier to animate.
 
 The downside of using IK is that it can be difficult to pose your character exactly as you want, since you lose control of each individual joint.
-
-Here is a step by step of the IK setup process:
-
-> IK character setup video
 
 ###Walk Cycle
 
