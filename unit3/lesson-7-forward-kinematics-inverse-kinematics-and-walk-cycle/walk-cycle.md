@@ -12,9 +12,9 @@ Because of all the nuance a walk cycle can depict, it may seem like one of the h
 
 ![](/assets/walkcycle_poses.png)
 
-These poses define the extremes of your walk cycle animation. The two most important poses are contact and passing since they dictate the step length and duration of the cycle. Recoil comes right after the contact pose and it is where the character is at its lowest point, while high point happens right after the passing pose, and it is where the character is at its highest point.
+These poses define the extremes of your walk cycle animation. The two most important poses are the **contact** and **passing** poses, since they dictate the step length and duration of the cycle. **Recoil** comes right after the contact pose and it is where the character is at its lowest point, while **high point** happens right after the passing pose, and it is where the character is at its highest point.
 
-In After Effects, these are the only four poses you'll need to make a character walk, since the inbetweens will be created for you. Obviously, if you stop with these poses, your walk will probably look very generic, so make sure to refine the inbetweens and the little details to create a walk cycle with more personality.
+In After Effects, these are the only four poses you'll need to make a character walk, since the inbetweens will be created for you. Obviously, if you stop with only these poses, your walk will probably look very generic, so make sure to refine the inbetweens and the little details to create a walk cycle with more personality.
 
 Here is a quick overview of the process of creating a walk cycle in After Effects:
 
