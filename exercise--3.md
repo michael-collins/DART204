@@ -43,9 +43,11 @@ _looping bouncing ball_
 
 10. When you finish all your frames, take pictures or scan each drawing, making sure that they are aligned. If you are using a camera or cellphone, it is a good idea to use a tripod.
 
-11. Bring the images to After Effects by following the steps in this video:
+11. Bring the images to After Effects by following the steps in this video **(there is no need to create a loop for this animation)**:
 
- >video **DONE**
+ https://drive.google.com/open?id=1gLpEux_N0bPCiwlUuSMIF0Eit01Wcp2z
+
+
 
 11. Render your animation as an .mp4 video
 
