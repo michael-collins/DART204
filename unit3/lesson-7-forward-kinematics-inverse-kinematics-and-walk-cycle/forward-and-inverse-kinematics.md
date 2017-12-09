@@ -1,4 +1,4 @@
-###Rigging modes
+###Character Rigging Modes - FK and IK
 
 When we design a character to be animated in After Effects, we need to think about how this character will move, and what actions it is going to perform. This will help us define what kind of **rigging** we will use for this character.
 

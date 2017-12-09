@@ -1,4 +1,4 @@
-###Character Rigging
+###Character Rigging Process
 
 To start rigging a character, one of the first steps we need to perform after we have all of the elements in separate layers and imported into After Effects is to position the **anchor point** of each piece properly.
 
