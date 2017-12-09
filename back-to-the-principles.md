@@ -4,9 +4,9 @@ Creating a compelling digital animation requires much more than simply adding tr
  
 Let’s start by looking at the following example: a simple title sequence for an animation called ‘Ultra Burger’.
  
-As seen in Lesson 4, first we need to create our asset, separate it in layers and import them into After Effects. We can then start animating each element. Here we animated the Position of the different elements of the burger (bread, patty, cheese), the Rotation and Scale of the right-hand shimmer, and used a Mask for the title:
+As seen in Lesson 4, first we need to create our asset, separate it in layers and import them into After Effects. We can then start animating each element. Here we animated the position of the different elements of the burger (bread, patty, cheese), the rotation and scale of the right-hand shimmer, and used a mask for the title:
  
->img
+![>img](/assets/unit2/burger_logo01.gif)
  
 This title sequence has all the assets that were previously defined, and they all appear following some of the basic animation properties we have learned, but this animation is not complete yet. The movement of each element is very linear and unappealing, and the animation lacks weight. So how can we improve this animation?
  
