@@ -12,11 +12,11 @@ In Forward Kinematics, the **parent object** influences the **child object** in 
 
 ![](/assets/unit3/FK.gif)
 
-This method is really good for putting your characters in very specific poses, but it can also be very cumbersome, since you have to manually rotate and position each section of the character separately.
+This method is really good for putting your characters in very specific poses, but it can also be very cumbersome and time consuming, since you have to manually rotate and position each section of the character separately.
 
 ####Inverse Kinematics (IK)
 
-**Inverse Kinematics** is faster to animate because it puts the the control of the hierarchy on the last child object. In this case, instead of having to manually position and rotate each section of the arm separately, we only need to move the hand, and the rest of the arm will follow.
+**Inverse Kinematics** is faster to animate because it puts the the control of the hierarchy on the last child object in a hierarchy. In this case, instead of having to manually position and rotate each section of the arm separately, we only need to move the hand, and the rest of the arm will follow.
 
 ![](/assets/unit3/IK.gif)
  
@@ -24,7 +24,7 @@ This makes it much quicker to pose a character, especially if you are creating a
 
 ![](/assets/unit3/char_compare.gif)
 
-From this simple comparison we can already see that the character on the right will be much easier to animate.
+From this simple comparison we can already see that the character on the right will be much easier to animate because it keeps its hands and feet positions in place as we move the character.
 
 The downside of using IK is that it can be difficult to pose your character exactly as you want, since you lose control of each individual joint.
 
