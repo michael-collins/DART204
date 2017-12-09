@@ -33,9 +33,17 @@ The easiest way to ensure your settings are correct is to use the preset 'HDTV 1
 
 Animating in After Effects is a very simple process once you get used to the interface and tools at your disposal.
 
-Here is a quick step by step animation in After Effects:
+Here is a series of videos showing the animation process in After Effects:
 
->video animation workflow and comp hierarchy
+https://www.lynda.com/After-Effects-tutorials/Editing-interactively-Composition-panel/78544/79270-4.html
+
+https://www.lynda.com/After-Effects-tutorials/Editing-numerically-Timeline-panel/78544/79271-4.html
+
+https://www.lynda.com/After-Effects-tutorials/Animating-position/78544/559748-4.html
+
+https://www.lynda.com/After-Effects-tutorials/Editing-motion-paths/78544/79274-4.html
+
+https://www.lynda.com/After-Effects-tutorials/Animating-scale-rotation-opacity/78544/79275-4.html
 
 ### Exporting your animation
 
