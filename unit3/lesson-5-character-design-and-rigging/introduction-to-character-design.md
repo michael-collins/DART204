@@ -6,9 +6,10 @@ Great characters invariably generate emotional responses from the viewers in the
 
 Designing a great character takes a lot of time. It involves trying out different shapes, colors, pieces of clothing, facial expressions, and types of movement (to name a few) in order to define features able to bring its personality to life.
 
-![](http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/1384621_orig.jpg?654)
+Pixar character design for Russell, from the movie UP:
 
-_Pixar character design for Russell, from the movie UP_
+http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/1384621_orig.jpg?654
+
 
 Here is a list of tips inspired by Pixar’s approach to character design, which can help you to develop a successful character:
 
