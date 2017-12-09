@@ -1,6 +1,6 @@
 ###Character Rigging Process
 
-To start rigging a character, one of the first steps we need to perform after we have all of the elements in separate layers and imported into After Effects is to position the **anchor point** of each piece properly.
+To start rigging a character, the first step we need to perform after we have all of the elements in separate layers and imported into After Effects is to position the **anchor point** of each piece properly.
 
 The anchor point is what defines your layer's center of rotation. As an example, the center of rotation of an arm is the shoulder, while the center of rotation of the forearm is the elbow. For this reason it is very important to place the anchor points of your layers properly **before you start rigging**.
 
