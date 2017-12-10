@@ -18,7 +18,9 @@ Another common workflow to work with audio in After Effects is to make use of Ma
  
 Here is a quick introduction to these techniques for audio syncing in After Effects:
  
->video audio syncing tutorial
+https://drive.google.com/open?id=1YtOy0gQNcKoPKujof5Di7Z-r1AmqyYZ_
 
->video audio syncing example
+Here is the finished animation with added effects and details:
+
+https://drive.google.com/open?id=1cG1GL6IqhRhutmIcsUdWt46t-_Q_PSi0
 
