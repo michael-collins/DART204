@@ -14,7 +14,7 @@ You can choose to combine the two animations (display personality/emotion as you
 
 ###Steps to completion
 
-1. First, take some time to think again about all the movements your character will perform. Is your character designed in a way that allows for those movements? Refer back to your storyboard (Project 1) to make sure you have taken into account the various motions your character will perform in his/her journey.
+1. First, take some time to think again about all the movements your character will perform. Is your character designed in a way that allows for those movements? Refer back to your storyboard (Project 1) to make sure you have taken into account the various motions your character will perform in its journey.
 
  Make any adjustments necessary to your character’s original design. Remember, **all the different parts that will be animated must be in separate layers**.
 
@@ -38,7 +38,7 @@ You can choose to combine the two animations (display personality/emotion as you
 
  art204_exercise7_lastname_firstname.mp4
  
- If you have created two separate animations (one of you character moving forward and another for his/her emotion/personality trait), combine both into one clip using After Effects.
+ If you have created two separate animations (one of you character moving forward and another for its emotion/personality trait), combine both into one clip using After Effects.
 
 7. Upload the animation to your frame.io page and post the link on the course page.
  
