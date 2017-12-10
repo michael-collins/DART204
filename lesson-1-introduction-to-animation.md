@@ -8,4 +8,4 @@ Inside, by Ukrlogic Company (2017)
 https://www.behance.net/gallery/59136819/INSIDE
 
 A Rather Lovely Thing, by El Diablo (2014)
-https://www.behance.net/gallery/17018543/A-Rather-Lovely-Thing
+https://vimeo.com/95844798
