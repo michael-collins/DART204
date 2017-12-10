@@ -1,10 +1,10 @@
 ##Exercise 7 - Character animation
 
-In this exercise you will apply what you have learned in Lesson 7 to your own character’s animation. Animating a character is much more than conveying movement as going from point A to point B. It also involves expressing your character’s personality and emotions through the way he/she and other elements surrounding your character (for example hair, clothes, props) move. 
+In this exercise you will apply what you have learned in Lesson 7 to your own character’s animation. Animating a character is much more than conveying movement as going from point A to point B. It also involves expressing your character’s personality and emotions through the way it and other elements surrounding your character (for example hair, clothes, props) move. 
 
 ###Guidelines
 
-Based on Lesson 7 and on your storyboard (Project 1), animate the character you have designed for Exercise 6.1. The objective here is to present the way your character moves AND his/her personality/emotion in two basic animations: 
+Based on Lesson 7 and on your storyboard (Project 1), animate the character you have designed for Exercise 6.1. The objective here is to present the way your character moves AND its personality/emotion in two basic animations: 
 
 1. Animate your character moving forward. Your character can be walking, running, jumping, or rolling. Anything that conveys forward motion as you envisioned in your storyboard (Project 1).
 
