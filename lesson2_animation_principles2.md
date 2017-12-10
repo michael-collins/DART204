@@ -14,4 +14,5 @@ At the end of this lesson you will use these 6 principles to refine the animatio
 ####Additional Examples and Resources
 
 Elephmant, by 5hands production (2017)
+
 https://www.behance.net/gallery/57329859/Elephmant

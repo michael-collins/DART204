@@ -10,9 +10,11 @@ Pick one scene from your storyboard (Project 1) and animate the character you ha
 ###Additional Examples and Resources
 
 Walk Cycle, by Emanoel Melo (2014)
+
 https://vimeo.com/88953200
 
 The Lake, by Tiffany Beucher and Guillaume Le Roux (2016)
+
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1d7b9d34050768.5a01cea8baec3.gif
 
 

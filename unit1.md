@@ -9,10 +9,13 @@ In Unit 1 we will talk about the history of animation, the rules for creating a 
 ####Screening
 
 Steamboat Willie, Walt Disney Animation Studios (1928)
+
 https://www.youtube.com/watch?v=BBgghnQF6E4
 
 “The Hero's Journey”, by Iskander Krayenbosch (2015)
+
 https://vimeo.com/140767141
 
 The illusion of life, by Cento Lodigiani (2014)
+
 https://vimeo.com/93206523

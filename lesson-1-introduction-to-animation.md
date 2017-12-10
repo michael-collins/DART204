@@ -5,7 +5,9 @@ In this lesson we will discuss the history of animation from the beginning of th
 ####Additional Examples and Resources
 
 Inside, by Ukrlogic Company (2017)
+
 https://www.behance.net/gallery/59136819/INSIDE
 
 A Rather Lovely Thing, by El Diablo (2014)
+
 https://vimeo.com/95844798

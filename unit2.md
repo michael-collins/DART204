@@ -9,10 +9,13 @@ In Unit 1 you have learned about the history of animation, storytelling, and pre
 ####Screening
  
 The Creators Project: Humanizing Motion Graphics, by Vice (2012)
+
 https://www.youtube.com/watch?v=ILpNlfO6qMg
  
 Why incompetent people think they’re amazing - // TED-Ed by David Dunning, Wednesday Studio (2017)
+
 https://vimeo.com/242970148
 
 Jeu, Georges Schwizgebel (2006)
+
 http://www.nfb.ca/film/jeu_en/

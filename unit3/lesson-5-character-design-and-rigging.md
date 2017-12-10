@@ -4,12 +4,16 @@ In Lesson 1 you have learned the main guidelines for the creation of great stori
 
 ####Additional Examples and Resources
  
-Drawing Fundamentals: Construction. Tips to start drawing a character https://www.youtube.com/watch?v=4KfmA6cEpU0
+Drawing Fundamentals: Construction. Tips to start drawing a character 
 
-How to Draw a Character Turnaround. A step-by-step guide on how to create a character ‘turnaround’ using Adobe Photoshop.
+https://www.youtube.com/watch?v=4KfmA6cEpU0
+
+How to Draw a Character Turnaround. A step-by-step guide on how to create a character ‘turnaround’ using Adobe Photoshop
+
 https://www.youtube.com/watch?v=G4rAS_WJWFo
 
-Character Design for Animation - Model Sheet. How to create a character ‘turnaround’ with overlays and freehand digital drawing.
+Character Design for Animation - Model Sheet. How to create a character ‘turnaround’ with overlays and freehand digital drawing
+
 https://www.youtube.com/watch?v=SCIS92ontFs
 
 

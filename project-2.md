@@ -11,15 +11,19 @@ Keep in mind, your title sequence doesn’t need to have a lot of elements. It s
 ###Additional Examples and Resources
 
 Catch Me if You Can - Title Sequence, by Kuntzel + Deygas (2002)
+
 https://www.youtube.com/watch?v=gaLDyrun_Cc&t=10s
 
 It’s a Mad Mad Mad Mad World - Title Sequence, by Saul Bass (1963)
+
 https://www.youtube.com/watch?v=s1A7bJD3atk
 
 10 Best Opening Title Sequences of All Time, by CineFix (2016)
+
 https://www.youtube.com/watch?v=i8twthdaqB8
  
 Round the Campfire, by Linn Fritz (2017)
+
 https://vimeo.com/232302303
 
 
