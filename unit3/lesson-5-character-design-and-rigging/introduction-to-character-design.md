@@ -20,7 +20,7 @@ Here is a list of tips inspired by Pixar’s approach to character design, which
  - How these traits translate into their physical appearance and into the way they move?
  - How do they fit within their stories? 
 
-2. Think about your audience. Different audiences will have different tastes (for example, characters designed for small children usually have basic colors and shapes. See Pocoyo and Big Block SingSong for characters designed with a very young audience in mind).
+2. Think about your audience. Different audiences will have different tastes (for example, characters designed for small children usually have basic colors and shapes. See 'Pocoyo' and 'Hey Duggee' for characters designed with a very young audience in mind).
 
 3. Make sure your character is unique. If you decide to create a talking circle, what makes it different and more special than the other talking circles that already exist?
 
