@@ -7,6 +7,15 @@ This is your first opportunity to test your character’s design and rigging as 
 
 Pick one scene from your storyboard (Project 1) and animate the character you have designed (Exercise 6.1) and rigged (Exercise 7.1) in Unit 3 accordingly. The idea is for you to use this animation in your final project, so make sure you pick a scene that is challenging. This is the time to find out if any elements from your character’s design and/or rigging are not working, and to see how your character fits within one of the scenes you have envisioned. This is an important step so you can make any necessary adjustments before your start working on the final project for this course.
 
+###Additional Examples and Resources
+
+Walk Cycle, by Emanoel Melo (2014)
+https://vimeo.com/88953200
+
+The Lake, by Tiffany Beucher and Guillaume Le Roux (2016)
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1d7b9d34050768.5a01cea8baec3.gif
+
+
 ###Steps to completion
 
 1. Pick one of the scenes from your storyboard. Since this is the moment to test one of the scenes from your final animation, you might want to pick a scene where your character needs to move in particular ways you have not tried before. 
