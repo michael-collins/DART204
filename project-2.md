@@ -8,6 +8,21 @@ Using the concepts you have learned in lessons 4 and 5, and that you have practi
 
 Keep in mind, your title sequence doesn’t need to have a lot of elements. It should simply convey a clear message, introducing the main ideas of your animation by presenting a strong and clear concept, and/or evoking particular emotion(s). 
 
+###Additional Examples and Resources
+
+Catch Me if You Can - Title Sequence, by Kuntzel + Deygas (2002)
+https://www.youtube.com/watch?v=gaLDyrun_Cc&t=10s
+
+It’s a Mad Mad Mad Mad World - Title Sequence, by Saul Bass (1963)
+https://www.youtube.com/watch?v=s1A7bJD3atk
+
+10 Best Opening Title Sequences of All Time, by CineFix (2016)
+https://www.youtube.com/watch?v=i8twthdaqB8
+ 
+Round the Campfire, by Linn Fritz (2017)
+https://vimeo.com/232302303
+
+
 ###Steps to completion
 
 1. Using your short story (Exercise 2) and storyboard (Project 1), create a title for your animation. Your title should preferably be short and clearly convey the main idea of your story. A way to approach the creation of your title is to list words that help you describe your character’s journey (for example your character’s name, the place where the story is taking place, what the journey is about). Then think which 1-4 words that best describe your story and try arranging them together to create a strong and compelling title. 
@@ -31,3 +46,4 @@ Keep in mind, your title sequence doesn’t need to have a lot of elements. It s
  art204_project2_lastname_firstname.mp4
 
 9. Upload the animation to your frame.io page and post the link on the course page.
+
