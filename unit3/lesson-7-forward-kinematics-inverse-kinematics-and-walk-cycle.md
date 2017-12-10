@@ -8,3 +8,35 @@ You can download it from this link:
 
 https://rainboxprod.coop/en/tools/duik/duik-download/
 
+####Additional Examples and Resources
+
+**Walk cycle:**
+
+Walk Cycle, by Chris O’Hara (2012)
+https://vimeo.com/50557042
+
+Janeane’s Walk Cycle, by Andrew Chesworth (2010)
+https://vimeo.com/12176778
+
+NONAME Walk Cycle, by Ariel Victor (2012)
+https://vimeo.com/49291956
+
+Zombie Hand, by Juan Carlos Cruz (2016)
+https://www.behance.net/gallery/32868805/Zombie-hand
+
+**Emotions:**
+
+Untitled [orange], by Marie Martirosyan and Tigran Manukyan (2017) 
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/63b06b58246739.59f4f65e35558.gif 
+
+Pizza’s Days, by Tigran Manukyan (2017)
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/d240e649037235.58aa19728e17d.gif
+
+Untitled [blue monster], by Tigran Manukyan (2016)
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/75ed2944224795.581b9967127ac.gif
+
+More examples by Tigran Manukyan
+https://www.behance.net/gallery/58246739/GIF-Collection-v2?tracking_source=curated_galleries_list
+https://www.behance.net/gallery/44224795/GIF-Collection
+
+
