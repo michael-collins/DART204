@@ -18,7 +18,7 @@ As part of this exercise you will create a **character sheet** depicting your ch
 
 ###Steps to completion
 
-1. The first step will be to create a basic sketch for your main character by hand, or using Adobe Illustrator/Photoshop. What are your character’s main physical characteristics? What are his/her main personality traits, and how can you convey those through his/her physical appearance? 
+1. The first step will be to create a basic sketch for your main character by hand, or using Adobe Illustrator/Photoshop. What are your character’s main physical characteristics? What are its main personality traits, and how can you convey those through its physical appearance? 
 
  Refer back to your outline to remember how you first envisioned your character or, if your character has changed since then, create a new outline you can follow to ground your design process. 
 
