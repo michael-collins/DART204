@@ -14,7 +14,7 @@ When working with audio in After Effects it is useful to have a visual represent
 
 You can have multiple audio layers for each animation, and you can control the volume of each layer independently by using the Audio Levels attribute.
  
-Another common workflow to work with audio in After Effects is to make use of Markers to place visual cues of where your keyframes should be. In addition to that, you can keep the Ctrl key (Cmd on MacOS) pressed when dragging your time indicator to hear a real time preview of your audio. By combining these techniques you will have a really solid visual guide of your audio track, and will be able to sync your audio and animation much more easily. 
+Another common workflow to work with audio in After Effects is to make use of Markers to place visual cues of where your keyframes should be. In addition to that, you can keep the Ctrl key (Cmd on MacOS) pressed when dragging your time indicator to hear a real-time preview of your audio. By combining these techniques you will have a really solid visual guide of your audio track, and will be able to sync your audio and animation much more easily. 
  
 Here is a quick introduction to these techniques for audio syncing in After Effects:
  

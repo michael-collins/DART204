@@ -13,13 +13,15 @@ https://www.youtube.com/watch?v=ZJnfABHiCVQ
 
 ###Guidelines
 
-Create an animated representation for a piece of music/audio using simple shapes and audio sync. Your animation should be between 10-20 seconds long. Since you animation will be fairly short, you most likely won’t use an entire song, especially if the piece you have selected is too long. With that in mind, plan for and make sure your animation doesn’t end abruptly. 
+Create an animated representation for a piece of music/audio using simple shapes and audio sync. Your animation should be between 10-20 seconds long.
 
 Remember, the goal here is not simply to have shapes and/or words that are synced to the music/audio, but rather to use animated shapes to tell a story, and share concepts and emotions that music/audio brings to your mind.
 
 ###Steps to completion
 
-1. As in exercise 4, planning (steps 1-3) is crucial for achieving a great animation. First of all, you need to select the music/audio you will use in your animation. A great open source to look for music is the “Experimental” category in the Free Music Archive http://freemusicarchive.org/. 
+1. As in exercise 4, planning (steps 1-3) is crucial for achieving a great animation. First of all, you need to select the music/audio you will use in your animation. A great open source to look for music is the “Experimental” category in the Free Music Archive:
+
+ http://freemusicarchive.org/ 
 
  What comes to your mind when you listen to it? What is the story, including concepts and emotions, you would like to tell with this music/audio? 
 
