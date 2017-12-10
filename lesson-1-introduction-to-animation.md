@@ -4,9 +4,6 @@ In this lesson we will discuss the history of animation from the beginning of th
 
 ####Additional Examples and Resources
 
-The Creators Project: Animating Ernest & Celestine, by Vice (2014)
-https://www.youtube.com/watch?v=ILpNlfO6qMg
-
 Inside, by Ukrlogic Company (2017)
 https://www.behance.net/gallery/59136819/INSIDE
 
