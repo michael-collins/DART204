@@ -12,3 +12,8 @@ The focus of this project is the creation of an animation that successfully conv
 For your final submission, you should upload a **video of your animation** together with a **project reflection text** (1 - 2 paragraphs) about your animation development process, the problems you encountered and how you solved them, and what you would have done differently.
 
 You may utilize images or textures downloaded from the internet or from previous projects you worked on. Just make sure you have permission to use these images, and utilize them only as props or background elements. If you make use of downloaded images, make sure to mention that in your project reflection text.
+
+####Screening
+
+Fox and the Whale
+https://vimeo.com/237551523

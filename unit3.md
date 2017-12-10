@@ -14,9 +14,6 @@ https://vimeo.com/80883637
 Animating Ernest & Celestine
 https://www.youtube.com/watch?v=ILpNlfO6qMg&
 
-Fox and the Whale
-https://vimeo.com/237551523
-
 
 
 
