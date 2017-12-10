@@ -12,7 +12,7 @@ Keep in mind that great animations have great characters that are relatable. To 
 
 ###Guidelines
 
-Based on your outline (Exercise 1.1), short story (Exercise 2.2), and storyboard (Project 1) design the main character for you animation. Make your character as detailed as possible, thinking about all the elements necessary to convey his/her personality, keeping in mind this may also change from the beginning to the end of his/her journey. 
+Based on your outline (Exercise 1.1), short story (Exercise 2.2), and storyboard (Project 1) design the main character for you animation. Make your character as detailed as possible, thinking about all the elements necessary to convey its personality, keeping in mind this may also change from the beginning to the end of its journey. 
 
 As part of this exercise you will create a **character sheet** depicting your character in four distinct views: front, back, side and posed.
 
