@@ -28,13 +28,13 @@ Here is a list of tips inspired by Pixar’s approach to character design, which
 
 5. Choose colors and shapes that allude to your character's personality and emotions.
 
-6. It is all about your character’s personality, so make sure s/he has a strong one! It doesn’t matter if your character is a hero or a villain, his/her personality must be interesting and clear, so your audience will have an emotional response to it.
+6. It is all about your character’s personality, so make sure it has a strong one! It doesn’t matter if your character is a hero or a villain, its personality must be interesting and clear, so your audience will have an emotional response to it.
 
-7. Give your character a range of emotions as your story evolves. This will help showcasing even more his/her personality. You don’t want to end up with a monotone character (unless that is part of your story!).
+7. Give your character a range of emotions as your story evolves. This will help showcasing even more its personality. You don’t want to end up with a monotone character (unless that is part of your story!).
 
 8. Give your character something to look for, a flaw to overcome. This will make your character more complex and will hook the audience to look forward to a solution.
 
-9. Create a backstory for your character. Where does your character come from? What are his/her past experiences? What big events shaped your character’s personality and the way s/he sees the world? Even if you won’t use it in your animation, a backstory helps to define your character’s personality and aspirations, and might be as interesting as his/her present journey. You might end up liking it so much, you you feel inspired to create an ‘origins’ story.
+9. Create a backstory for your character. Where does your character come from? What are its past experiences? What big events shaped your character’s personality and the way it sees the world? Even if you won’t use it in your animation, a backstory helps to define your character’s personality and aspirations, and might be as interesting as its present journey. You might end up liking it so much, you you feel inspired to create an ‘origins’ story.
 
 10. Create an interesting world for your character. The world you character lives in is as important to the story as the character itself, so spend time developing it.
 
