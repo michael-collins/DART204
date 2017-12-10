@@ -19,7 +19,7 @@ Pick one scene from your storyboard (Project 1) and animate the character you ha
 
 3. Import all assets you have created into Adobe After Effects. Arrange all the elements and add your character into the scene.
 
-4. Using After Effects, animate your character in the scene you have selected. Make sure to test the timing of your character’s movements and be attentive to how he/she fits with the other assets you have create. Does your character stand out? Are his/her movements looking right? Is your your scene everything you have envisioned? 
+4. Using After Effects, animate your character in the scene you have selected. Make sure to test the timing of your character’s movements and be attentive to how it fits with the other assets you have create. Does your character stand out?
 
 5. Go back to your character's original design and rigging to make any changes necessary. Don’t be afraid to alter your original vision. It is only by testing things out that you will see what works and what doesn’t.
 
