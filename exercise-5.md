@@ -21,7 +21,7 @@ Remember, the goal here is not simply to have shapes and/or words that are synce
 
 1. As in exercise 4, planning (steps 1-3) is crucial for achieving a great animation. First of all, you need to select the music/audio you will use in your animation. A great open source to look for music is the “Experimental” category in the Free Music Archive:
 
- http://freemusicarchive.org/ 
+ http://freemusicarchive.org/
 
  What comes to your mind when you listen to it? What is the story, including concepts and emotions, you would like to tell with this music/audio? 
 
