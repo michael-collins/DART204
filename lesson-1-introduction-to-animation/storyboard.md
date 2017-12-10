@@ -57,7 +57,7 @@ The main elements of an outline are:
 - **Story pitch or summarized plot:**
 
     A short version of your story with all of the most important plot points. It can be presented as a couple of short paragraphs, or even bullet points. Your story pitch should answer some of these questions:
-    - Who is the main character and what are his/her objectives and motivations?
+    - Who is the main character and what are its objectives and motivations?
     - What is the character's initial condition, and how does that change over the course of the story?
     - What are the obstacles and conflicts the main character faces?
     
