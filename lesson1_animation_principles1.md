@@ -12,3 +12,8 @@ For this lesson we will look into 6 of the 12 animation principles:
 - Arcs
  
 At the end of this lesson you will work on a simple animation exercise and will expand the outline you have created in Exercise 1 into a short story.
+
+####Additional Examples and Resources
+ 
+CMYK, by Ronda (2015)
+https://vimeo.com/138106887
