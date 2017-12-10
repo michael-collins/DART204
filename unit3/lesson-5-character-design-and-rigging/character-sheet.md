@@ -41,16 +41,3 @@ When you are happy with the overall look of your character, create a final sheet
 Follow this link for a collection of character sheets from major studios, including Disney, Warner Brothers, and Hanna-Barbera:
 
 http://www.traditionalanimation.com/animation-library/model-sheets/
-
-
-**Additional Resources:**
-
-Drawing Fundamentals: Construction. Tips to start drawing a character
-https://www.youtube.com/watch?v=4KfmA6cEpU0
-
-How to Draw a Character Turnaround. A step-by-step guide on how to create a character ‘turnaround’ using Adobe Photoshop.
-https://www.youtube.com/watch?v=G4rAS_WJWFo
-
-Character Design for Animation - Model Sheet. How to create a character ‘turnaround’ with overlays and freehand digital drawing.
-https://www.youtube.com/watch?v=SCIS92ontFs
-
