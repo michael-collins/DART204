@@ -12,7 +12,7 @@ Write an 1-page outline for a short story with the theme “journey”. A journe
     
     Summarize your **plot in one paragraph or a series of 5-6 bullet points**. Remember that your story should answer these three main questions (as outlined in Lesson 1):
     
-    - Who is the main character and what are his/her objectives and motivations?
+    - Who is the main character and what are its objectives and motivations?
     - What is the character's initial condition, and how does that change over the course of the story?
     - What are the obstacles and conflicts the main character faces?
         
