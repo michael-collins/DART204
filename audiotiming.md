@@ -2,8 +2,6 @@
 
 Audio is an important aspect of animation. It adds interest and helps to highlight particular moments of a story, clarifying ideas and exacerbating emotional responses by the viewer. Audio can be used as the basis to define the entire animation process, dictating how and when all of the elements will move on screen.
  
-Here is an example: Waiting for Superman https://www.youtube.com/watch?v=u9whOEr33UU. Pay attention to how audio and graphics were carefully combined to tell a clear message.
- 
 If you don’t have an audio track to work with, it is a little harder to create a rhythm for your animation. But as you did when you created your ‘living text’ animation in Exercise 4, you can animate your elements based on a set time, making sure you preview it regularly so your animation doesn’t start dragging on.
  
 In this lesson, however, you will learn to use audio as a starting point to create an animated representation of an audio sample in After Effects using simple shapes and text. The audio component of your animation can be can be a song that you like or a sentence from a movie. You will then use that sample to create your assets and sync your animation to the beats, instruments or words from the audio.
