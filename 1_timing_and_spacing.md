@@ -6,8 +6,6 @@ Timing in animation is counted in **frames**, and most animations created for br
 
 Some animations created for TV, web or games can have different fps, like 30 or 60, because the process to create these animations is different from the traditional method. Because of this increased frame rate, they create a much smoother motion. As an example, imagine that to create a hand drawn animation at 60 instead of 24 fps, you would need to make 36 more drawings per second, so depending on how you create the animation, it can be a very time consuming process.
 
-> **Curious fact:** Japanese hand-drawn animation, or anime, generally runs at 24 fps, but is animated at just 8 fps, meaning that each drawing stays on screen for 3 frames, which gives it a very unique style and movement.
-
 To exemplify, let’s think about the animation of a ball going from left to right. It takes the ball exactly one second to move from one side to the other, so our timing chart will look like this:
 
 ![](/assets/unit1/01_timing01.png)
