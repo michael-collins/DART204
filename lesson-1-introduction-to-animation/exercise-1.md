@@ -10,7 +10,7 @@ Write a 1 page outline for a short story with the theme “journey”. A journey
 
 1. Think about the story you want to tell. What is the main message you want to convey? Who are your characters and what action will they undertake to convey that message? 
     
-    Summarize your **plot in one paragraph or a series of bullet points (minimum 5)**. Remember that your story should answer these three main questions (as outlined in Lesson 1):
+    Summarize your **plot in one paragraph or a series of bullet points (minimum of 5)**. Remember that your story should answer these three main questions (as outlined in Lesson 1):
     
     - Who is the main character and what are its objectives and motivations?
     - What is the character's initial condition, and how does that change over the course of the story?
