@@ -29,5 +29,3 @@ Keep in mind that you will use this storyboard on your final project, so you wan
 4. Post your final comic strip as a PDF file to the course page following this naming convention:
  
  art204_project1_lastname_firstname.pdf
-
-###Grading
