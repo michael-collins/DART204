@@ -28,5 +28,3 @@ By rewriting your story you will get a chance to deepen your understanding of yo
 4. Post your final story as a PDF file to the course page following this naming convention:
 
  art204_exercise2-2_lastname_firstname.pdf
-
-###Grading
