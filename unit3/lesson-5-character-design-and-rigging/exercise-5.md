@@ -39,5 +39,3 @@ As part of this exercise you will create a **character sheet** depicting your ch
  art204_exercise6_lastname_firstname.pdf
 
 7. Post your final character sheet to the course page.
- 
-###Grading

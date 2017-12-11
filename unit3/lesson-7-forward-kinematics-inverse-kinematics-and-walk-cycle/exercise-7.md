@@ -41,5 +41,3 @@ You can choose to combine the two animations (display personality/emotion as you
  If you have created two separate animations (one of you character moving forward and another for its emotion/personality trait), combine both into one clip using After Effects.
 
 7. Upload the animation to your frame.io page and post the link on the course page.
- 
-###Grading

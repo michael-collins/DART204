@@ -41,5 +41,3 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1d7b9d34050768.5a01ce
  art204_project3_lastname_firstname.mp4
 
 8. Upload the animation to your frame.io page and post the link on the course page.
-
-###Grading

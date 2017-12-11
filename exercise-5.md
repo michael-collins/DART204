@@ -48,5 +48,3 @@ Remember, the goal here is not simply to have shapes and/or words that are synce
  art204_exercise5_lastname_firstname.mp4
 
 9. Upload the animation to your frame.io page and post the link on the course page.
-
-###Grading
