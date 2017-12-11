@@ -14,7 +14,7 @@ Try to **keep your story simple**, at least at first. Once you have a general id
 
 Writing doesn't have to be a lonely process. Look for other people's opinions and pay attention to their reaction to your story. Take all criticism and praise into account, but make sure to stay true to your vision. Remember this is your story and you are free to tell it any way you like.
 
-Finally, as you write your story, try to imagine it as a movie/animation. Ask yourself how does it translate to the screen, what do the characters and locations look like, and how does that affect the story itself. This will make the process of turning your story into an animation later on much easier.
+Finally, as you write your story, try to imagine it as a movie/animation. Ask yourself how does it translate to the screen, what do the characters and locations look like, and how does that affect the story itself. This will make the process of turning your story into an animation much easier later on.
 
 Emma Coats, a storyboard artist from Pixar has compiled a very helpful list of rules on how to create great stories and characters:
  
