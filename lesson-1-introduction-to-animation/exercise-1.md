@@ -1,6 +1,6 @@
 ##Exercise 1: Outline
 
-In this exercise you will create an outline for a short story. This outline is the first step you will take to begin envisioning the general idea and a direction for your final project on this course. In this outline you will flash-out your initial ideas by defining all the main elements of your story, as discussed in Lesson 1.
+In this exercise you will create an outline for a short story. This outline is the first step you will take to begin envisioning the general idea and a direction for your final project on this course. In this outline you will flesh out your initial ideas by defining all the main elements of your story, as discussed in Lesson 1.
 
 ###Guidelines
 
