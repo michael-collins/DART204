@@ -57,5 +57,3 @@ _looping bouncing ball_
 art204_exercise3-1_lastname_firstname.mp4
 
 13. Post the link to your video on the exercise page
-
-###Grading

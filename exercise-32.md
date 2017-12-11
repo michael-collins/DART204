@@ -17,5 +17,3 @@ Create a comic strip with 3-4 frames to tell the short story you have developed 
 4. Post your final comic strip as a PDF file to the course page following this naming convention:
  
  art204_exercise3-2_lastname_firstname.pdf
-
-###Grading
