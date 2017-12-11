@@ -41,5 +41,3 @@ Write a 1 page outline for a short story with the theme “journey”. A journey
 5. Post your final outline as a PDF file to the course page following this naming convention:
 
     art204_exercise1_lastname_firstname.pdf
-    
-###Grading
