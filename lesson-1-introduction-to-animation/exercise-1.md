@@ -27,7 +27,7 @@ Write a 1 page outline for a short story with the theme “journey”. A journey
 
     But don’t stop there. What are other characteristics from your character that are essential to the story you want to tell (past traumas, goals in life, etc.)? List them as well!    
     
-3. Think about the place or places where your story is taking place. What are the main characteristics of that place (vegetation, animal life, culture)? Is it a cold place in the Arctic, a hot desert, a peaceful meadow, or a busy city? Describe your story’s location(s) in one paragraph or 5-6 bullet points. Make sure you specify:
+3. Think about the place or places where your story is taking place. What are the main characteristics of that place (vegetation, animal life, culture)? Is it a cold place in the Arctic, a hot desert, a peaceful meadow, or a busy city? Describe your story’s location(s) in **one paragraph or a series of bullet points (as many as needed, minimum 5)**. Make sure you specify:
 
     - Where and when does your story happen;
     - Describe each landscape and scenery in detail. Here you can also use pictures/illustrations as reference;
