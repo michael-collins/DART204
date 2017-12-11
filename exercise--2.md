@@ -51,5 +51,3 @@ Try to create a sense of weight by using the principles of timing and spacing, a
  art204_exercise2-1_lastname_firstname.mp4
 
 12. Post the link to your video on the exercise page
-
-###Grading
