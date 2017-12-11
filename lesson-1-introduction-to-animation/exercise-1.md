@@ -4,7 +4,7 @@ In this exercise you will create an outline for a short story. This outline is t
 
 ###Guidelines
 
-Write an 1-page outline for a short story with the theme “journey”. A journey is series of situations, beginning, middle and end, that generally depict growth or change to the main character, be it a complex story about a hero on an epic adventure, or a simpler one about a square shape that transforms into a circle. Keep your outline as detailed and informative as possible as you describe the main traits of your character(s), the location(s) where the action is happening, and the story you want to tell. All these details will come in handy when you start detailing your animation in Lesson 2. 
+Write a 1 page outline for a short story with the theme “journey”. A journey is a series of situations (beginning, middle and end), that generally depict growth or change to the main character, be it a complex story about a hero on an epic adventure, or a simpler one about a square shape that transforms into a circle. Keep your outline as detailed and informative as possible as you describe the main traits of your character(s), the location(s) where the action is happening, and the story you want to tell. All these details will come in handy when you start detailing your animation in Lesson 2. 
 
 ###Steps to Completion
 
