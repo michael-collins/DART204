@@ -33,6 +33,4 @@ Remember, whatever the elements you plan to use, they must clearly convey your t
 
  art204_exercise4_lastname_firstname.mp4
 
-9. Upload the animation to your frame.io page and post the link on the course page. 
-
-###Grading
+9. Upload the animation to your frame.io page and post the link on the course page.
