@@ -11,3 +11,7 @@ Throughout this course you have learned the history and principles of animation,
 Merry Christmas from Wednesday Collective, Wednesday Studio (2013)
 
 https://vimeo.com/82550624
+
+Fox and the Whale
+
+https://vimeo.com/237551523
