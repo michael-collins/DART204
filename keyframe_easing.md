@@ -1,6 +1,6 @@
 # Graph Editor
 
-\####Graph Editor
+### Graph Editor
 
 Ease in and Ease out is the easiest principle to apply in After Effects, since it requires only a few clicks to activate, and not a lot of work to customize and tweak.
 
