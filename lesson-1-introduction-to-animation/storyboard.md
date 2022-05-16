@@ -1,6 +1,8 @@
-##Storytelling and Pre-production
+# Storytelling and Pre-production
 
-###Storytelling
+### Storytelling and Pre-production
+
+#### Storytelling
 
 Think about your favorite animated movie. What was the movie about? What was the main character's name? How did that movie make you feel?
 
@@ -17,7 +19,7 @@ Writing doesn't have to be a lonely process. Look for other people's opinions an
 Finally, as you write your story, try to imagine it as a movie/animation. Ask yourself how does it translate to the screen, what do the characters and locations look like, and how does that affect the story itself. This will make the process of turning your story into an animation much easier later on.
 
 Emma Coats, a storyboard artist from Pixar has compiled a very helpful list of rules on how to create great stories and characters:
- 
+
 1. You admire a character for trying more than for their successes.
 2. You gotta keep in mind what’s interesting to you as an audience, not what’s fun to do as a writer. They can be very different.
 3. Trying for theme is important, but you won’t see what the story is actually about until you’re at the end of it. Now rewrite.
@@ -41,12 +43,11 @@ Emma Coats, a storyboard artist from Pixar has compiled a very helpful list of r
 21. You gotta identify with your situation/characters, can’t just write ‘cool’. What would make YOU act that way?
 22. What’s the essence of your story? Most economical telling of it? If you know that, you can build out from there.
 
-
-### Pre-production
+#### Pre-production
 
 Pre-production is the planning period before any development is done. It is in this phase that your ideas and animation take shape as you better define characters, locations, story and as many other details as you can. The first step of pre-production is called...
 
-####Outline
+#### Outline
 
 The outline is a document where you collect and organize all the elements of your story. This is a very important step in animation development, and very useful to not lose sight of the details about the plot, characters, etc.
 
@@ -54,67 +55,60 @@ An outline can have many forms. It can be a simple list or a collection of refer
 
 The main elements of an outline are:
 
-- **Story pitch or summarized plot:**
+*   **Story pitch or summarized plot:**
 
     A short version of your story with all of the most important plot points. It can be presented as a couple of short paragraphs, or even bullet points. Your story pitch should answer some of these questions:
-    - Who is the main character and what are its objectives and motivations?
-    - What is the character's initial condition, and how does that change over the course of the story?
-    - What are the obstacles and conflicts the main character faces?
-    
-    
-- **Character profiles:**
+
+    * Who is the main character and what are its objectives and motivations?
+    * What is the character's initial condition, and how does that change over the course of the story?
+    * What are the obstacles and conflicts the main character faces?
+*   **Character profiles:**
 
     Everything there is to know about the characters in your story. A few examples are:
-    - Character's name
-    - Age and/or date of birth
-    - favorite food/color/type of music
-    - Personality traits/general mood
-    - Catchphrases
-    - Anything else that may be essential to the plot (past traumas, goals in life, etc.)
-    
+
+    * Character's name
+    * Age and/or date of birth
+    * favorite food/color/type of music
+    * Personality traits/general mood
+    * Catchphrases
+    * Anything else that may be essential to the plot (past traumas, goals in life, etc.)
+
     You should strive to create characters with opinions and feelings, and that also have consistency. Even if most of the details you list in this step end up not making into a scene in your animation, the fact that you thought about them will help you create more believable characters.
-    
-- **Locations:**
+*   **Locations:**
 
     A list of locations with detailed descriptions. In this section you can specify:
-    - Where and when does your story happen (in a space station, in an arcade in the 1980's, inside a kitchen). Describe each landscape and scenery, or use pictures/illustrations as reference.
-    - Overall mood of the place
-    - Time of day/weather/season    
-    - How does the location affects the characters
-    
+
+    * Where and when does your story happen (in a space station, in an arcade in the 1980's, inside a kitchen). Describe each landscape and scenery, or use pictures/illustrations as reference.
+    * Overall mood of the place
+    * Time of day/weather/season
+    * How does the location affects the characters
+
     Depending on your story, locations can be almost as important as a character, so make sure to think about your locations very carefully.
-    
+
 When you finish your outline, and even as you organize and write your outline, you'll notice that your story evolves and sometimes can even change completely. This is a common ocurrence, so don't be afraid of rewriting your story as many times as you feel is necessary.
 
 Once you complete this step, you are ready to start working on the...
 
-####Storyboard
+#### Storyboard
 
 Storyboards are a visual representation of your story. As the name suggests, it consists of a collection of illustrations or images, generally pinned to a board, showing your scenes in chronological order. Storyboards can be as detailed or as simple as you want, and you don't necessarily need to use an actual board, as even small thumbnails scribbled on paper should be fine, as long as that clearly conveys the ideas in your story.
 
 The storyboard is and incredibly useful tool, and it contains a lot of information about your animation, such as:
 
-- "camera" movement and scene composition
+*   "camera" movement and scene composition
 
-    In a storyboard, you can define how a camera should be positioned, and also how it should move with the use of arrows inside or around the frame.
-![](/assets/unit1/storyboard_cam_examples.jpg)
-
-- scene cuts and action timing
+    In a storyboard, you can define how a camera should be positioned, and also how it should move with the use of arrows inside or around the frame. ![](../assets/unit1/storyboard\_cam\_examples.jpg)
+*   scene cuts and action timing
 
     Because of the chronological nature of the storyboard, you can use it to easily define when things will happen in a scene, and when one scene will cut to the next.
-    
-- character and prop movement
+*   character and prop movement
 
-    You can pose and give the idea of movement to characters and and other elements by using arrows close to or around them. Here is a great example by Alex DeLeon:
-http://www.stayup.com/motorcycleStoryboard.jpg
-
-- scene by scene description
+    You can pose and give the idea of movement to characters and and other elements by using arrows close to or around them. Here is a great example by Alex DeLeon: http://www.stayup.com/motorcycleStoryboard.jpg
+*   scene by scene description
 
     You can write a short description of the scene under each frame of a storyboard. This helps to clarify any details that might be hard to convey in the frame.
-    
-- extras
+*   extras
 
     If necessary, you can add details such as scene numbers, dialogue for each character, notes about color/mood/music, etc. The level of detail contained in a storyboard ultimately depends on how complex the animation is and what works for you.
-    
-Once the storyboard is in place, it serves as a guide for the entire production process, so it is important to take your time developing it and make sure that it is clear and easily understandable.
 
+Once the storyboard is in place, it serves as a guide for the entire production process, so it is important to take your time developing it and make sure that it is clear and easily understandable.
