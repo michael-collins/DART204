@@ -20,4 +20,4 @@ We can add more elements to make this look more like a desert:
 
 ![>img](assets/unit1/07\_staging03.gif)
 
-Now we add a camera movement and a few effects to emphasize the heat of the sun, and this is what our scene looks like: https://www.youtube.com/watch?v=GaaV0RITyv8
+Now we add a camera movement and a few effects to emphasize the heat of the sun, and this is what our scene looks like: [https://www.youtube.com/watch?v=GaaV0RITyv8](https://www.youtube.com/watch?v=GaaV0RITyv8)
