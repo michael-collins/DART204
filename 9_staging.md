@@ -1,6 +1,6 @@
-#### 9. Staging
+# 9. Staging
 
-The principle of **staging** refers to how you frame your action so it is clear to the viewer. Staging is a broad concept, and it is developed through a collection of components like scene composition, camera movement,  and background elements, and also in details like what clothes the character is wearing and the way they move through the scene.
+The principle of **staging** refers to how you frame your action so it is clear to the viewer. Staging is a broad concept, and it is developed through a collection of components like scene composition, camera movement, and background elements, and also in details like what clothes the character is wearing and the way they move through the scene.
 
 An easy way to plan your staging is to think about how you can direct the viewer’s attention to your main action. **The position of the camera and the way it moves** is very important to accentuate an action. Close-ups are best used when the focus is on something detailed, like a facial expression, while wide shots are best used for big actions between multiple characters or to establish a location.
 
@@ -10,16 +10,14 @@ An easy way to plan your staging is to think about how you can direct the viewer
 
 As an example, we can animate a simple character appear to be tired:
 
-![>img](/assets/unit1/05_staging01.gif)
+![>img](assets/unit1/05\_staging01.gif)
 
 Since this is a very simple character, staging can help make the idea that he is tired more clear. He may be walking through a deserted place:
 
-![>img](/assets/unit1/06_staging02.gif)
+![>img](assets/unit1/06\_staging02.gif)
 
 We can add more elements to make this look more like a desert:
 
-![>img](/assets/unit1/07_staging03.gif)
+![>img](assets/unit1/07\_staging03.gif)
 
-Now we add a camera movement and a few effects to emphasize the heat of the sun, and this is what our scene looks like:
-
-{% youtube %}https://www.youtube.com/embed/GaaV0RITyv8{% endyoutube %}
+Now we add a camera movement and a few effects to emphasize the heat of the sun, and this is what our scene looks like: [https://www.youtube.com/watch?v=GaaV0RITyv8](https://www.youtube.com/watch?v=GaaV0RITyv8)
